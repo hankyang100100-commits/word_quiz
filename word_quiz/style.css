@@ -878,6 +878,17 @@ button:disabled {
   text-align: center;
 }
 
+/* ---------- 單字連結到辭典 ---------- */
+.card-word a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card-word a:hover,
+.card-word a:focus-visible {
+  text-decoration: underline;
+}
+
 /* ---------- 自己新增的單字顯示綠色 ---------- */
 .card.is-mine .card-word {
   color: #2e9d62;

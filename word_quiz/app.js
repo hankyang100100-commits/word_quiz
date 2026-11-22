@@ -7,6 +7,8 @@
   const SEED_URL = 'gre_words.json';
   const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
   const COUNT_OPTIONS = [10, 20, 30, 'all'];
+  // 劍橋辭典（英漢繁體）的基底網址，後面接上英文單字即可
+  const DICT_BASE = 'https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/';
 
   const ICONS = {
     speaker: '<path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/>',
@@ -109,6 +111,10 @@
     String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
   const keyOf = (s) => String(s).trim().toLowerCase();
+
+  // 例如 "look up" → .../look-up；字母統一小寫、空白換成連字號
+  const dictUrl = (word) =>
+    DICT_BASE + encodeURIComponent(String(word).trim().toLowerCase().replace(/\s+/g, '-'));
 
   const initialOf = (s) => {
     const c = String(s).trim().charAt(0).toUpperCase();
@@ -406,7 +412,7 @@
           </div>
         </div>`
       : `
-        <h3 class="card-word">${esc(w.word)}</h3>
+        <h3 class="card-word"><a href="${esc(dictUrl(w.word))}" target="_blank" rel="noopener noreferrer" title="在劍橋辭典查看">${esc(w.word)}</a></h3>
         <p class="card-def">${esc(w.definition)}</p>
         <div class="card-tools">
           <button class="icon-btn" type="button" data-action="speak" title="朗讀" aria-label="朗讀">${icon('speaker')}</button>
