@@ -1,0 +1,8052 @@
+[
+    {
+        "id": 1,
+        "word": "abate",
+        "definition": "v. 減輕、減少"
+    },
+    {
+        "id": 2,
+        "word": "abbreviate",
+        "definition": "v. 縮寫"
+    },
+    {
+        "id": 3,
+        "word": "abdicate",
+        "definition": "v. 正式放棄(權力)、退位、辭職"
+    },
+    {
+        "id": 4,
+        "word": "aberrant",
+        "definition": "adj. 越軌的、異常的 n. aberration"
+    },
+    {
+        "id": 5,
+        "word": "abhorrent",
+        "definition": "adj. 可恨的、討厭的 v. abhor"
+    },
+    {
+        "id": 6,
+        "word": "abjure",
+        "definition": "v. 發誓棄絕、鄭重聲明放棄"
+    },
+    {
+        "id": 7,
+        "word": "abnegate",
+        "definition": "v. 否認、放棄 n. abnegation"
+    },
+    {
+        "id": 8,
+        "word": "abrasive",
+        "definition": "adj. 有研磨作用的、有磨蝕作用的"
+    },
+    {
+        "id": 9,
+        "word": "absolve",
+        "definition": "v. 赦免、免除(責任、義務)...的過失"
+    },
+    {
+        "id": 10,
+        "word": "abstain",
+        "definition": "v. 禁絕[+from]、(投票)棄權"
+    },
+    {
+        "id": 11,
+        "word": "abstemious",
+        "definition": "adj. 有節制的、飲食有度的"
+    },
+    {
+        "id": 12,
+        "word": "abstentious",
+        "definition": "adj. 禁慾的、有節制的"
+    },
+    {
+        "id": 13,
+        "word": "abstinent",
+        "definition": "adj. 飲食有度的、有節制的"
+    },
+    {
+        "id": 14,
+        "word": "abstruse",
+        "definition": "adj. 深奧的、難懂的"
+    },
+    {
+        "id": 15,
+        "word": "abuse",
+        "definition": "v. 濫用、辱罵"
+    },
+    {
+        "id": 16,
+        "word": "accentuate",
+        "definition": "v. 強調、以重音讀出"
+    },
+    {
+        "id": 17,
+        "word": "accolade",
+        "definition": "n. 推崇、讚揚"
+    },
+    {
+        "id": 18,
+        "word": "accretion",
+        "definition": "n. 增加"
+    },
+    {
+        "id": 19,
+        "word": "accrue",
+        "definition": "v. (利息)增大、增加"
+    },
+    {
+        "id": 20,
+        "word": "accuse",
+        "definition": "v. 譴責、指責"
+    },
+    {
+        "id": 21,
+        "word": "acerbic",
+        "definition": "adj. 酸的、刻薄的"
+    },
+    {
+        "id": 22,
+        "word": "acquiesce",
+        "definition": "v. 默許、順從"
+    },
+    {
+        "id": 23,
+        "word": "acquiescence",
+        "definition": "n. 默認、默許"
+    },
+    {
+        "id": 24,
+        "word": "acrimonious",
+        "definition": "adj. 尖刻的、嚴厲的"
+    },
+    {
+        "id": 25,
+        "word": "acrimony",
+        "definition": "n. 尖刻、刻薄"
+    },
+    {
+        "id": 26,
+        "word": "acuity",
+        "definition": "n. 敏銳"
+    },
+    {
+        "id": 27,
+        "word": "acumen",
+        "definition": "n. 精明"
+    },
+    {
+        "id": 28,
+        "word": "acute",
+        "definition": "adj. 靈敏的"
+    },
+    {
+        "id": 29,
+        "word": "adaptive",
+        "definition": "adj. 適應的"
+    },
+    {
+        "id": 30,
+        "word": "adduce",
+        "definition": "v. 引用、舉例"
+    },
+    {
+        "id": 31,
+        "word": "adept",
+        "definition": "adj. 熟練的、內行的"
+    },
+    {
+        "id": 32,
+        "word": "adequate",
+        "definition": "adj. 足夠的"
+    },
+    {
+        "id": 33,
+        "word": "adhere",
+        "definition": "v. 遵守、擁護、黏著"
+    },
+    {
+        "id": 34,
+        "word": "adherent",
+        "definition": "n. 擁護者、信徒"
+    },
+    {
+        "id": 35,
+        "word": "adjunct",
+        "definition": "n. 附加物、附件"
+    },
+    {
+        "id": 36,
+        "word": "admonish",
+        "definition": "v. 告誡、警告"
+    },
+    {
+        "id": 37,
+        "word": "adroit",
+        "definition": "adj. 靈巧的"
+    },
+    {
+        "id": 38,
+        "word": "adumbrate",
+        "definition": "v. 預示、遮蔽"
+    },
+    {
+        "id": 39,
+        "word": "adversary",
+        "definition": "n. 對手、敵手"
+    },
+    {
+        "id": 40,
+        "word": "adversity",
+        "definition": "n. 逆境、不幸 adj. adverse 有害的、不幸的"
+    },
+    {
+        "id": 41,
+        "word": "advocate",
+        "definition": "v. 擁護、提倡、主張"
+    },
+    {
+        "id": 42,
+        "word": "aesthetic",
+        "definition": "adj. 美學的、有審美感的"
+    },
+    {
+        "id": 43,
+        "word": "affable",
+        "definition": "adj. 和藹可親的、容易親近的 [同] amiable"
+    },
+    {
+        "id": 44,
+        "word": "affiliation",
+        "definition": "n. 聯繫、聯合"
+    },
+    {
+        "id": 45,
+        "word": "affinity",
+        "definition": "n. 親近、熟稔、類似"
+    },
+    {
+        "id": 46,
+        "word": "affirm",
+        "definition": "v. 確認、肯定"
+    },
+    {
+        "id": 47,
+        "word": "afflict",
+        "definition": "v. 折磨、使痛苦"
+    },
+    {
+        "id": 48,
+        "word": "affluent",
+        "definition": "adj. 富裕的、豐富的"
+    },
+    {
+        "id": 49,
+        "word": "aggrandize",
+        "definition": "v. 加大、強化"
+    },
+    {
+        "id": 50,
+        "word": "aggravate",
+        "definition": "v. 加重、惡化"
+    },
+    {
+        "id": 51,
+        "word": "agile",
+        "definition": "adj. 靈敏的、活的"
+    },
+    {
+        "id": 52,
+        "word": "agitated",
+        "definition": "adj. 激動的、不安的"
+    },
+    {
+        "id": 53,
+        "word": "agony",
+        "definition": "n. 極大的痛苦"
+    },
+    {
+        "id": 54,
+        "word": "agrarian",
+        "definition": "adj. 土地的"
+    },
+    {
+        "id": 55,
+        "word": "alienation",
+        "definition": "n. 疏遠、 異化"
+    },
+    {
+        "id": 56,
+        "word": "allegiance",
+        "definition": "n. 忠誠、忠貞"
+    },
+    {
+        "id": 57,
+        "word": "alleviate",
+        "definition": "v. 緩和、減輕"
+    },
+    {
+        "id": 58,
+        "word": "allusive",
+        "definition": "adj. 暗指的、隱射的"
+    },
+    {
+        "id": 59,
+        "word": "alternative",
+        "definition": "adj. 輪流的、交替的"
+    },
+    {
+        "id": 60,
+        "word": "altruism",
+        "definition": "adj. 利他主義 adj. altruistic"
+    },
+    {
+        "id": 61,
+        "word": "ambidextrous",
+        "definition": "adj. 雙手靈巧的、十分靈巧的"
+    },
+    {
+        "id": 62,
+        "word": "ambivalent",
+        "definition": "adj. 矛盾的"
+    },
+    {
+        "id": 63,
+        "word": "ameliorate",
+        "definition": "v. 使改善、改進"
+    },
+    {
+        "id": 64,
+        "word": "amenable",
+        "definition": "adj. 肯順從的、願服從的 [同] submissive, obedient"
+    },
+    {
+        "id": 65,
+        "word": "amend",
+        "definition": "v. 修訂、訂正 n.(pl) 補償 [make amends for N/Ving]"
+    },
+    {
+        "id": 66,
+        "word": "amiable",
+        "definition": "adj. 和藹的、親切的"
+    },
+    {
+        "id": 67,
+        "word": "amity",
+        "definition": "n. 和睦、親善"
+    },
+    {
+        "id": 68,
+        "word": "amorphous",
+        "definition": "adj. 無定形的"
+    },
+    {
+        "id": 69,
+        "word": "amplify",
+        "definition": "v. 放大、詳述"
+    },
+    {
+        "id": 70,
+        "word": "anachronistic",
+        "definition": "adj. 時代錯誤的"
+    },
+    {
+        "id": 71,
+        "word": "analgesic",
+        "definition": "adj. 止痛的 n. 止痛劑"
+    },
+    {
+        "id": 72,
+        "word": "anatomical",
+        "definition": "adj. 解剖的、解剖學的"
+    },
+    {
+        "id": 73,
+        "word": "ancestry",
+        "definition": "n. 家系"
+    },
+    {
+        "id": 74,
+        "word": "animadvert",
+        "definition": "v. 批評 n. animadversion"
+    },
+    {
+        "id": 75,
+        "word": "animosity",
+        "definition": "n. 憎惡、仇恨"
+    },
+    {
+        "id": 76,
+        "word": "animus",
+        "definition": "n. 敵意、憎恨"
+    },
+    {
+        "id": 77,
+        "word": "anneal",
+        "definition": "n/v. 使退火"
+    },
+    {
+        "id": 78,
+        "word": "annex",
+        "definition": "n. 兼併、附加"
+    },
+    {
+        "id": 79,
+        "word": "annihilate",
+        "definition": "v. 殲滅、擊潰、(競賽或爭論)徹底擊敗"
+    },
+    {
+        "id": 80,
+        "word": "annotate",
+        "definition": "v. 註解"
+    },
+    {
+        "id": 81,
+        "word": "anomalous",
+        "definition": "adj. 反常的、不規則的 n. anomaly"
+    },
+    {
+        "id": 82,
+        "word": "anonymity",
+        "definition": "n. 匿名、作者不詳 adj. anonymous"
+    },
+    {
+        "id": 83,
+        "word": "antagonistic",
+        "definition": "adj. 敵對的、對抗性的"
+    },
+    {
+        "id": 84,
+        "word": "antipathy",
+        "definition": "n. 憎惡、反感 [同]animosity, animus, antagonism, rancor"
+    },
+    {
+        "id": 85,
+        "word": "antiquated",
+        "definition": "adj. 過時的、陳舊的、老式的"
+    },
+    {
+        "id": 86,
+        "word": "antique",
+        "definition": "n. 古董 adj. 古代的"
+    },
+    {
+        "id": 87,
+        "word": "antithetical",
+        "definition": "adj. 相反的、對立的 n. antithesis"
+    },
+    {
+        "id": 88,
+        "word": "apathetic",
+        "definition": "adj. 無感情的"
+    },
+    {
+        "id": 89,
+        "word": "aphorism",
+        "definition": "n. 格言、箴言"
+    },
+    {
+        "id": 90,
+        "word": "apologist",
+        "definition": "n. 辯護者"
+    },
+    {
+        "id": 91,
+        "word": "apostasy",
+        "definition": "n. 背教、脫黨"
+    },
+    {
+        "id": 92,
+        "word": "appall",
+        "definition": "v. 使驚駭、使感到恐懼"
+    },
+    {
+        "id": 93,
+        "word": "apparel",
+        "definition": "n. (精緻的)衣服"
+    },
+    {
+        "id": 94,
+        "word": "apparition",
+        "definition": "n. 幽靈、亡靈"
+    },
+    {
+        "id": 95,
+        "word": "apposite",
+        "definition": "adj. 適當的、貼切的 [類] apropos, appropriate"
+    },
+    {
+        "id": 96,
+        "word": "apprehend",
+        "definition": "v. 理解、逮捕"
+    },
+    {
+        "id": 97,
+        "word": "approbation",
+        "definition": "n. 贊同、認可、批准"
+    },
+    {
+        "id": 98,
+        "word": "appropriate",
+        "definition": "adj. 適當的、洽當的 v. 挪用、侵占"
+    },
+    {
+        "id": 99,
+        "word": "approximate",
+        "definition": "adj. 大約的、估計的"
+    },
+    {
+        "id": 100,
+        "word": "apropos",
+        "definition": "adj. 合適的、適切的 prep. 提到、關於"
+    },
+    {
+        "id": 101,
+        "word": "apt",
+        "definition": "adj. 適合的、易於...的、有...傾向的"
+    },
+    {
+        "id": 102,
+        "word": "aqueous",
+        "definition": "adj. 水的"
+    },
+    {
+        "id": 103,
+        "word": "arbitrary",
+        "definition": "adj. 專橫的、不理智的、任意的"
+    },
+    {
+        "id": 104,
+        "word": "archetypal",
+        "definition": "adj. 典型的"
+    },
+    {
+        "id": 105,
+        "word": "aristocracy",
+        "definition": "n. 貴族階層"
+    },
+    {
+        "id": 106,
+        "word": "aristocrat",
+        "definition": "n. 貴族"
+    },
+    {
+        "id": 107,
+        "word": "arrogant",
+        "definition": "adj. 傲慢的、自大的"
+    },
+    {
+        "id": 108,
+        "word": "articulate",
+        "definition": "adj. 表達清楚的、口齒伶俐的 v. 清晰地表達"
+    },
+    {
+        "id": 109,
+        "word": "artifice",
+        "definition": "n. 奸計、詭計"
+    },
+    {
+        "id": 110,
+        "word": "ascendancy",
+        "definition": "n. 優勢、權勢、支配地位"
+    },
+    {
+        "id": 111,
+        "word": "asperity",
+        "definition": "n. 嚴厲、沒耐心 [with some asperity]"
+    },
+    {
+        "id": 112,
+        "word": "aspersion",
+        "definition": "n. 誹謗、中傷 defamation"
+    },
+    {
+        "id": 113,
+        "word": "assail",
+        "definition": "v. 猛烈抨擊、暴力襲擊、深受...困擾、(聲音氣味)刺激"
+    },
+    {
+        "id": 114,
+        "word": "assemble",
+        "definition": "v. 集合、聚集、裝配"
+    },
+    {
+        "id": 115,
+        "word": "assent",
+        "definition": "n. 同意、贊成"
+    },
+    {
+        "id": 116,
+        "word": "assert",
+        "definition": "v. 斷言、主張"
+    },
+    {
+        "id": 117,
+        "word": "assiduous",
+        "definition": "adj. 勤勉的、專心的"
+    },
+    {
+        "id": 118,
+        "word": "assimilate",
+        "definition": "v. 同化、吸收"
+    },
+    {
+        "id": 119,
+        "word": "assure",
+        "definition": "v. 像某人保證、使確信"
+    },
+    {
+        "id": 120,
+        "word": "asteroid",
+        "definition": "n. 小行星"
+    },
+    {
+        "id": 121,
+        "word": "astronomical",
+        "definition": "adj. 天文學的、龐大的"
+    },
+    {
+        "id": 122,
+        "word": "attenuate",
+        "definition": "v. 變薄、變弱"
+    },
+    {
+        "id": 123,
+        "word": "attuned",
+        "definition": "adj. 理解的"
+    },
+    {
+        "id": 124,
+        "word": "audacious",
+        "definition": "adj. 大膽的、無畏的、愚勇的"
+    },
+    {
+        "id": 125,
+        "word": "augment",
+        "definition": "v. 增加"
+    },
+    {
+        "id": 126,
+        "word": "august",
+        "definition": "adj. 威嚴的、高貴的"
+    },
+    {
+        "id": 127,
+        "word": "auspicious",
+        "definition": "adj. 吉利的、吉兆的"
+    },
+    {
+        "id": 128,
+        "word": "authentic",
+        "definition": "adj. 可信的、真實的、可靠的"
+    },
+    {
+        "id": 129,
+        "word": "authoritative",
+        "definition": "adj. 權威的、官方的、專斷的"
+    },
+    {
+        "id": 130,
+        "word": "autocracy",
+        "definition": "n. 獨裁政府"
+    },
+    {
+        "id": 131,
+        "word": "auxiliary",
+        "definition": "adj. 輔助的、協助的"
+    },
+    {
+        "id": 132,
+        "word": "aver",
+        "definition": "v. 極力聲明、斷言、確證"
+    },
+    {
+        "id": 133,
+        "word": "aversion",
+        "definition": "n. 厭惡、反感"
+    },
+    {
+        "id": 134,
+        "word": "avert",
+        "definition": "v. 避免、防止、轉移(目光)"
+    },
+    {
+        "id": 135,
+        "word": "avid",
+        "definition": "adj. 熱情的、熱心的"
+    },
+    {
+        "id": 136,
+        "word": "avow",
+        "definition": "v. 坦率承認、公開表示"
+    },
+    {
+        "id": 137,
+        "word": "awe-inspiring",
+        "definition": "adj. 令人起敬畏心的、令人驚嘆的"
+    },
+    {
+        "id": 138,
+        "word": "banish",
+        "definition": "v. 放逐"
+    },
+    {
+        "id": 139,
+        "word": "base",
+        "definition": "n. 基礎 adj. 卑賤的"
+    },
+    {
+        "id": 140,
+        "word": "beguile",
+        "definition": "v. 迷住、哄騙(做某事)"
+    },
+    {
+        "id": 141,
+        "word": "bellicose",
+        "definition": "adj. 好戰的、好鬥的"
+    },
+    {
+        "id": 142,
+        "word": "belligerent",
+        "definition": "adj. 發動戰爭的、好鬥的、好挑釁的"
+    },
+    {
+        "id": 143,
+        "word": "benediction",
+        "definition": "n. 祝福、祈禱"
+    },
+    {
+        "id": 144,
+        "word": "benefactor",
+        "definition": "n. 行善者、捐助者"
+    },
+    {
+        "id": 145,
+        "word": "beneficent",
+        "definition": "adj. 慈善的、仁愛的、有益的"
+    },
+    {
+        "id": 146,
+        "word": "beneficent",
+        "definition": "adj. 慈善的、仁愛的"
+    },
+    {
+        "id": 147,
+        "word": "benevolent",
+        "definition": "adj. 善心的、仁心的"
+    },
+    {
+        "id": 148,
+        "word": "benign",
+        "definition": "adj. 良性的、無害的"
+    },
+    {
+        "id": 149,
+        "word": "bisect",
+        "definition": "v. 把...一分為二"
+    },
+    {
+        "id": 150,
+        "word": "blemish",
+        "definition": "n. 玷汙、缺點 adj. blemished"
+    },
+    {
+        "id": 151,
+        "word": "blithe",
+        "definition": "adj. 無憂的、快樂的"
+    },
+    {
+        "id": 152,
+        "word": "bombastic",
+        "definition": "adj. 夸夸其談的"
+    },
+    {
+        "id": 153,
+        "word": "boon",
+        "definition": "n. 好處、利益、恩惠"
+    },
+    {
+        "id": 154,
+        "word": "bounteous",
+        "definition": "adj. 慷慨的、豐富的"
+    },
+    {
+        "id": 155,
+        "word": "brevity",
+        "definition": "n. 簡潔、簡練"
+    },
+    {
+        "id": 156,
+        "word": "cacophony",
+        "definition": "n. 雜音、不和諧音"
+    },
+    {
+        "id": 157,
+        "word": "calculate",
+        "definition": "v. 計算"
+    },
+    {
+        "id": 158,
+        "word": "calligraphy",
+        "definition": "n. 書法、筆跡"
+    },
+    {
+        "id": 159,
+        "word": "callous",
+        "definition": "adj. 無情的、硬結的"
+    },
+    {
+        "id": 160,
+        "word": "candid",
+        "definition": "adj. 率直的"
+    },
+    {
+        "id": 161,
+        "word": "capacious",
+        "definition": "adj. 容量大的、寬敞的"
+    },
+    {
+        "id": 162,
+        "word": "capitulate",
+        "definition": "v. (有條件)投降"
+    },
+    {
+        "id": 163,
+        "word": "captious",
+        "definition": "adj. 吹毛求疵的"
+    },
+    {
+        "id": 164,
+        "word": "captivate",
+        "definition": "v. 迷惑、吸引"
+    },
+    {
+        "id": 165,
+        "word": "carnivorous",
+        "definition": "adj. 肉食性的"
+    },
+    {
+        "id": 166,
+        "word": "casualty",
+        "definition": "n. 傷員人員、傷亡者"
+    },
+    {
+        "id": 167,
+        "word": "catastrophe",
+        "definition": "n. 突如其來的大災難 n. cataclysm adj. cataclysimic"
+    },
+    {
+        "id": 168,
+        "word": "caustic",
+        "definition": "adj. 腐蝕性的、刻薄的"
+    },
+    {
+        "id": 169,
+        "word": "cavalier",
+        "definition": "n. 騎士、武士 adj. 不在乎的、輕慢的"
+    },
+    {
+        "id": 170,
+        "word": "celerity",
+        "definition": "n. 迅速、快速"
+    },
+    {
+        "id": 171,
+        "word": "censorious",
+        "definition": "adj. 好批評的、好吹毛求疵的"
+    },
+    {
+        "id": 172,
+        "word": "censure",
+        "definition": "v./n. 責備、譴責"
+    },
+    {
+        "id": 173,
+        "word": "centrifugal",
+        "definition": "adj. 離心的"
+    },
+    {
+        "id": 174,
+        "word": "chantey",
+        "definition": "n. 船歌"
+    },
+    {
+        "id": 175,
+        "word": "chastise",
+        "definition": "v. 懲罰、譴責 [同] castigate n. chatisement"
+    },
+    {
+        "id": 176,
+        "word": "chivalrous",
+        "definition": "adj. 武士精神的、對女人彬彬有禮的"
+    },
+    {
+        "id": 177,
+        "word": "chromatic",
+        "definition": "adj. 彩色的"
+    },
+    {
+        "id": 178,
+        "word": "chronic",
+        "definition": "adj. 長期的、慢性的"
+    },
+    {
+        "id": 179,
+        "word": "chronological",
+        "definition": "adj. 依時間前後排列而記載的"
+    },
+    {
+        "id": 180,
+        "word": "circuitous",
+        "definition": "adj. 迂迴的、繞圈子的"
+    },
+    {
+        "id": 181,
+        "word": "circumlocution",
+        "definition": "n. 婉轉迂迴、迂迴累贅的陳述"
+    },
+    {
+        "id": 182,
+        "word": "circumscribe",
+        "definition": "v. 限制、約束"
+    },
+    {
+        "id": 183,
+        "word": "circumspect",
+        "definition": "adj. 慎重的、謹慎小心的"
+    },
+    {
+        "id": 184,
+        "word": "circumstantial",
+        "definition": "adj. 與情況有關的、依情況而定的"
+    },
+    {
+        "id": 185,
+        "word": "circumvent",
+        "definition": "v. 迴避 [類] sidestep"
+    },
+    {
+        "id": 186,
+        "word": "clairvoyance",
+        "definition": "adj. 超人的洞察力"
+    },
+    {
+        "id": 187,
+        "word": "clairvoyant",
+        "definition": "adj. 洞察的"
+    },
+    {
+        "id": 188,
+        "word": "clandestine",
+        "definition": "adj. 祕密的、案中的"
+    },
+    {
+        "id": 189,
+        "word": "clannish",
+        "definition": "adj. 排他的、門戶之見"
+    },
+    {
+        "id": 190,
+        "word": "coalesce",
+        "definition": "v. 聯合、合併"
+    },
+    {
+        "id": 191,
+        "word": "coalition",
+        "definition": "n. 同盟、聯合"
+    },
+    {
+        "id": 192,
+        "word": "codify",
+        "definition": "v. 將法律編成法典"
+    },
+    {
+        "id": 193,
+        "word": "cognitive",
+        "definition": "adj. 認知的、感知的"
+    },
+    {
+        "id": 194,
+        "word": "cognizance",
+        "definition": "n. 認知、認定、審理"
+    },
+    {
+        "id": 195,
+        "word": "coherent",
+        "definition": "adj. 一致的、協調的"
+    },
+    {
+        "id": 196,
+        "word": "coincide",
+        "definition": "v. 巧合、一致"
+    },
+    {
+        "id": 197,
+        "word": "colloquial",
+        "definition": "adj. 口語的、會話的"
+    },
+    {
+        "id": 198,
+        "word": "collude",
+        "definition": "v. 共謀[with sth.]、串通"
+    },
+    {
+        "id": 199,
+        "word": "commensurate",
+        "definition": "adj. (比例)相當的、相稱的"
+    },
+    {
+        "id": 200,
+        "word": "communal",
+        "definition": "adj. 全體共有的、共享的"
+    },
+    {
+        "id": 201,
+        "word": "compatible",
+        "definition": "adj. 和諧共處的、相容的"
+    },
+    {
+        "id": 202,
+        "word": "compelling",
+        "definition": "adj. 令人注目的、強制的"
+    },
+    {
+        "id": 203,
+        "word": "compendium",
+        "definition": "n. 簡要、概略"
+    },
+    {
+        "id": 204,
+        "word": "complacent",
+        "definition": "adj. 滿足的、自滿的"
+    },
+    {
+        "id": 205,
+        "word": "complaisant",
+        "definition": "adj. 彬彬有禮的、殷勤的"
+    },
+    {
+        "id": 206,
+        "word": "complementary",
+        "definition": "adj. 補充的、補足的"
+    },
+    {
+        "id": 207,
+        "word": "compliance",
+        "definition": "n. 遵從、順從 adj. compliant"
+    },
+    {
+        "id": 208,
+        "word": "comprehensive",
+        "definition": "adj. 全面的、綜合的"
+    },
+    {
+        "id": 209,
+        "word": "compulsory",
+        "definition": "adj. 強制的、命令性的"
+    },
+    {
+        "id": 210,
+        "word": "compunction",
+        "definition": "n. 內疚、懊悔"
+    },
+    {
+        "id": 211,
+        "word": "concede",
+        "definition": "v. 承認、讓步"
+    },
+    {
+        "id": 212,
+        "word": "concession",
+        "definition": "n. 讓步"
+    },
+    {
+        "id": 213,
+        "word": "conciliatory",
+        "definition": "adj. 撫慰的、調和的"
+    },
+    {
+        "id": 214,
+        "word": "conclusive",
+        "definition": "adj. 決定性的、確實的"
+    },
+    {
+        "id": 215,
+        "word": "concord",
+        "definition": "n. 一致、協調、和睦"
+    },
+    {
+        "id": 216,
+        "word": "concur",
+        "definition": "v. 意見相同、一致"
+    },
+    {
+        "id": 217,
+        "word": "condemn",
+        "definition": "v. 責難、譴責"
+    },
+    {
+        "id": 218,
+        "word": "condescending",
+        "definition": "adj. 盛氣凌人的"
+    },
+    {
+        "id": 219,
+        "word": "condone",
+        "definition": "v. 原諒、寬恕"
+    },
+    {
+        "id": 220,
+        "word": "conducive",
+        "definition": "adj. 有助益的"
+    },
+    {
+        "id": 221,
+        "word": "confer",
+        "definition": "v. 商討、授予(權力、榮譽)"
+    },
+    {
+        "id": 222,
+        "word": "confess",
+        "definition": "v. 承認、公認"
+    },
+    {
+        "id": 223,
+        "word": "confessional",
+        "definition": "adj. /n. 懺悔"
+    },
+    {
+        "id": 224,
+        "word": "configuration",
+        "definition": "n. 結構、輪廓"
+    },
+    {
+        "id": 225,
+        "word": "confine",
+        "definition": "v. 限制、使侷限"
+    },
+    {
+        "id": 226,
+        "word": "conflate",
+        "definition": "v. 合併"
+    },
+    {
+        "id": 227,
+        "word": "conform",
+        "definition": "v. 遵從、一致 [conform to sth.]"
+    },
+    {
+        "id": 228,
+        "word": "conformity",
+        "definition": "n. 一致、遵從、順從 [conformity in sth.]"
+    },
+    {
+        "id": 229,
+        "word": "confound",
+        "definition": "v. 使混亂、使困惑 [類] perplex"
+    },
+    {
+        "id": 230,
+        "word": "congenial",
+        "definition": "adj. 意氣相投的、性情好的 n. congeniality"
+    },
+    {
+        "id": 231,
+        "word": "congruent",
+        "definition": "adj. 適合的、一致的"
+    },
+    {
+        "id": 232,
+        "word": "conjecture",
+        "definition": "v. 推測、臆測 adj. conjectural"
+    },
+    {
+        "id": 233,
+        "word": "conjure",
+        "definition": "v. 想起、變出"
+    },
+    {
+        "id": 234,
+        "word": "connotation",
+        "definition": "n. 含蓄、言外之意"
+    },
+    {
+        "id": 235,
+        "word": "conpassionate",
+        "definition": "adj. 有同情心的"
+    },
+    {
+        "id": 236,
+        "word": "conscientious",
+        "definition": "adj. 小心謹慎的、認真的"
+    },
+    {
+        "id": 237,
+        "word": "consensus",
+        "definition": "n. 意見一致"
+    },
+    {
+        "id": 238,
+        "word": "conservative",
+        "definition": "adj. 保守的"
+    },
+    {
+        "id": 239,
+        "word": "consign",
+        "definition": "v. 打發、棄置"
+    },
+    {
+        "id": 240,
+        "word": "consistent",
+        "definition": "adj. 始終如一的、前後一致的"
+    },
+    {
+        "id": 241,
+        "word": "consolidate",
+        "definition": "v. 鞏固、堅強、合併"
+    },
+    {
+        "id": 242,
+        "word": "consonant",
+        "definition": "adj. 調和的、一致的"
+    },
+    {
+        "id": 243,
+        "word": "conspicuous",
+        "definition": "adj. 顯著的、顯而易見的"
+    },
+    {
+        "id": 244,
+        "word": "conspiracy",
+        "definition": "n. 陰謀、共謀 v. conspire 共謀、(事件湊在一起)共同導致"
+    },
+    {
+        "id": 245,
+        "word": "constant",
+        "definition": "adj. 固定的、不變的"
+    },
+    {
+        "id": 246,
+        "word": "consternation",
+        "definition": "n. 大為吃驚、驚駭"
+    },
+    {
+        "id": 247,
+        "word": "constrain",
+        "definition": "v. 強迫、迫使"
+    },
+    {
+        "id": 248,
+        "word": "construe",
+        "definition": "v. 解釋、理解為 [反]misconstrue"
+    },
+    {
+        "id": 249,
+        "word": "consummate",
+        "definition": "adj. 完全的、完善的"
+    },
+    {
+        "id": 250,
+        "word": "contemplate",
+        "definition": "v. 沉思、凝視"
+    },
+    {
+        "id": 251,
+        "word": "contentious",
+        "definition": "adj. 有爭議的、好辯的"
+    },
+    {
+        "id": 252,
+        "word": "contigent",
+        "definition": "adj. 偶然的"
+    },
+    {
+        "id": 253,
+        "word": "contiguous",
+        "definition": "adj. 接近的、接壤的"
+    },
+    {
+        "id": 254,
+        "word": "contravene",
+        "definition": "v. 違背"
+    },
+    {
+        "id": 255,
+        "word": "contrite",
+        "definition": "adj. 悔罪的、痛悔的"
+    },
+    {
+        "id": 256,
+        "word": "contumacious",
+        "definition": "adj. 違抗的、不服從的"
+    },
+    {
+        "id": 257,
+        "word": "conundrum",
+        "definition": "n. 難題、複雜問題 [同]enigma, riddle"
+    },
+    {
+        "id": 258,
+        "word": "convection",
+        "definition": "n. 對流"
+    },
+    {
+        "id": 259,
+        "word": "conventional",
+        "definition": "adj. 傳統的、習慣的"
+    },
+    {
+        "id": 260,
+        "word": "convergent",
+        "definition": "adj. 匯聚的 v. converge"
+    },
+    {
+        "id": 261,
+        "word": "conversant",
+        "definition": "adj. 熟悉的、精通的"
+    },
+    {
+        "id": 262,
+        "word": "convert",
+        "definition": "v. 轉變、使改變信仰"
+    },
+    {
+        "id": 263,
+        "word": "conviction",
+        "definition": "n. 判罪、堅信"
+    },
+    {
+        "id": 264,
+        "word": "convoluted",
+        "definition": "adj. 費解的、錯綜複雜的"
+    },
+    {
+        "id": 265,
+        "word": "copious",
+        "definition": "adj. 豐富的、多產的"
+    },
+    {
+        "id": 266,
+        "word": "cordial",
+        "definition": "adj. 熱忱的、衷心的"
+    },
+    {
+        "id": 267,
+        "word": "corroborate",
+        "definition": "v. 證實、確證"
+    },
+    {
+        "id": 268,
+        "word": "cosmopolitan",
+        "definition": "n. 四海為家的人"
+    },
+    {
+        "id": 269,
+        "word": "cosmopolitan",
+        "definition": "adj. 世界性的、國際性的"
+    },
+    {
+        "id": 270,
+        "word": "countenance",
+        "definition": "n. 面部表情 v. 支持、贊同"
+    },
+    {
+        "id": 271,
+        "word": "counterfeit",
+        "definition": "adj. 偽造的 v. 偽造、假冒"
+    },
+    {
+        "id": 272,
+        "word": "counterpart",
+        "definition": "n. 相對應的人或物"
+    },
+    {
+        "id": 273,
+        "word": "covet",
+        "definition": "v. 貪求、覬覦"
+    },
+    {
+        "id": 274,
+        "word": "credulous",
+        "definition": "adj. 輕信的、易信的 [反] incredulous, n. incredulity"
+    },
+    {
+        "id": 275,
+        "word": "cryptic",
+        "definition": "adj. 難以理解的、祕密的、隱密的"
+    },
+    {
+        "id": 276,
+        "word": "culprit",
+        "definition": "n. 禍端、犯罪者"
+    },
+    {
+        "id": 277,
+        "word": "cult",
+        "definition": "n. 膜拜、狂熱崇拜"
+    },
+    {
+        "id": 278,
+        "word": "cumbersome",
+        "definition": "adj. 笨重的、難處理的"
+    },
+    {
+        "id": 279,
+        "word": "cursory",
+        "definition": "adj. 粗略的、草率的"
+    },
+    {
+        "id": 280,
+        "word": "curtail",
+        "definition": "v. 縮減、削減 n. curtailment"
+    },
+    {
+        "id": 281,
+        "word": "cynical",
+        "definition": "adj. 憤世嫉俗的、自私的"
+    },
+    {
+        "id": 282,
+        "word": "cynosure",
+        "definition": "n. 眾人矚目的焦點"
+    },
+    {
+        "id": 283,
+        "word": "debase",
+        "definition": "v. 貶低、貶損"
+    },
+    {
+        "id": 284,
+        "word": "debrief",
+        "definition": "v. 聽取匯報、向...詢問狀況"
+    },
+    {
+        "id": 285,
+        "word": "decadence",
+        "definition": "n. 衰落、頹廢"
+    },
+    {
+        "id": 286,
+        "word": "deceit",
+        "definition": "n. 欺騙、詭計"
+    },
+    {
+        "id": 287,
+        "word": "deceive",
+        "definition": "v. 欺騙"
+    },
+    {
+        "id": 288,
+        "word": "decipher",
+        "definition": "v. 破譯密碼、解開謎團"
+    },
+    {
+        "id": 289,
+        "word": "decorous",
+        "definition": "adj. 合宜的、高雅的"
+    },
+    {
+        "id": 290,
+        "word": "decorum",
+        "definition": "n. 端莊、彬彬有禮"
+    },
+    {
+        "id": 291,
+        "word": "deduce",
+        "definition": "v. 演繹、推斷"
+    },
+    {
+        "id": 292,
+        "word": "deduct",
+        "definition": "v. 減除、扣除"
+    },
+    {
+        "id": 293,
+        "word": "defamatory",
+        "definition": "adj. 破壞名聲的、誹謗的"
+    },
+    {
+        "id": 294,
+        "word": "deference",
+        "definition": "n. 尊敬 adj. deferential"
+    },
+    {
+        "id": 295,
+        "word": "definite",
+        "definition": "adj. 清楚的、明確的"
+    },
+    {
+        "id": 296,
+        "word": "deflate",
+        "definition": "v. 放...的氣、洩氣、使失去信心"
+    },
+    {
+        "id": 297,
+        "word": "deflated",
+        "definition": "adj. 洩氣的、氣餒的"
+    },
+    {
+        "id": 298,
+        "word": "deflect",
+        "definition": "v. 轉移(注意力、批評)、使脫離、使偏斜"
+    },
+    {
+        "id": 299,
+        "word": "deft",
+        "definition": "adj. 靈巧的"
+    },
+    {
+        "id": 300,
+        "word": "defuse",
+        "definition": "v. 化解、緩和(緊張或衝突)、拆除(炸彈)"
+    },
+    {
+        "id": 301,
+        "word": "degenerate",
+        "definition": "v. 惡化、衰退 adj. 墮落的、腐化的 n. degeneracy adj. degenerative"
+    },
+    {
+        "id": 302,
+        "word": "dejected",
+        "definition": "adj. 沮喪的、失望的"
+    },
+    {
+        "id": 303,
+        "word": "deleterious",
+        "definition": "adj. (對身體)有害的、有毒的(要刪除)"
+    },
+    {
+        "id": 304,
+        "word": "delineate",
+        "definition": "v. 描繪、描寫"
+    },
+    {
+        "id": 305,
+        "word": "delinquent",
+        "definition": "adj. (通常指青少年) 常有違法行為的、拖欠債務"
+    },
+    {
+        "id": 306,
+        "word": "delude",
+        "definition": "v. 欺騙、哄騙 [sb into thinking]"
+    },
+    {
+        "id": 307,
+        "word": "demanding",
+        "definition": "adj. 費時費力的、要求高的、難伺候的、挑剔的"
+    },
+    {
+        "id": 308,
+        "word": "demarcate",
+        "definition": "v. 劃分、劃界"
+    },
+    {
+        "id": 309,
+        "word": "demean",
+        "definition": "v. 貶低、降低自己的身分"
+    },
+    {
+        "id": 310,
+        "word": "demeanor",
+        "definition": "n. 舉動、行為、風度"
+    },
+    {
+        "id": 311,
+        "word": "demise",
+        "definition": "n. 死亡、財產轉讓"
+    },
+    {
+        "id": 312,
+        "word": "demography",
+        "definition": "n. 人口學"
+    },
+    {
+        "id": 313,
+        "word": "demonstrable",
+        "definition": "adj. 可證明的、明顯的"
+    },
+    {
+        "id": 314,
+        "word": "demonstrate",
+        "definition": "v. 證明、展示"
+    },
+    {
+        "id": 315,
+        "word": "demonstrative",
+        "definition": "adj. 感情外漏的、熱情奔放的"
+    },
+    {
+        "id": 316,
+        "word": "demoralize",
+        "definition": "v. 使士氣低落、使意志消沉"
+    },
+    {
+        "id": 317,
+        "word": "demotic",
+        "definition": "adj. 大眾的、通俗的"
+    },
+    {
+        "id": 318,
+        "word": "demur",
+        "definition": "v. 表示異議、反對"
+    },
+    {
+        "id": 319,
+        "word": "demystify",
+        "definition": "v. 使非神秘化、闡明、弄清楚"
+    },
+    {
+        "id": 320,
+        "word": "denigrate",
+        "definition": "v. 汙衊、誹謗"
+    },
+    {
+        "id": 321,
+        "word": "denunciate",
+        "definition": "v. 公開指責、公然抨擊"
+    },
+    {
+        "id": 322,
+        "word": "depict",
+        "definition": "v. 描繪、繪畫"
+    },
+    {
+        "id": 323,
+        "word": "deplete",
+        "definition": "v.用盡、使減少 n. depletion"
+    },
+    {
+        "id": 324,
+        "word": "deplorable",
+        "definition": "adj. 悲慘的、應受譴責的"
+    },
+    {
+        "id": 325,
+        "word": "deplore",
+        "definition": "v. 譴責、強力反對"
+    },
+    {
+        "id": 326,
+        "word": "deprave",
+        "definition": "v. 使墮落、使惡化"
+    },
+    {
+        "id": 327,
+        "word": "deprecate",
+        "definition": "v. 反對、輕視"
+    },
+    {
+        "id": 328,
+        "word": "deride",
+        "definition": "v. 嘲笑、嘲弄 n. derision [同] mock, n. mockery"
+    },
+    {
+        "id": 329,
+        "word": "derivative",
+        "definition": "adj. 缺乏創意的、模仿他人的 n. 衍生物"
+    },
+    {
+        "id": 330,
+        "word": "derogate",
+        "definition": "v. 貶低、誹謗"
+    },
+    {
+        "id": 331,
+        "word": "desolate",
+        "definition": "adj. 荒蕪的、無人煙的"
+    },
+    {
+        "id": 332,
+        "word": "desperate",
+        "definition": "adj. 挺而走險的、情急拼命的"
+    },
+    {
+        "id": 333,
+        "word": "despicable",
+        "definition": "adj. 可鄙的、卑劣的"
+    },
+    {
+        "id": 334,
+        "word": "despotic",
+        "definition": "adj. 暴君的、暴虐的、專橫的"
+    },
+    {
+        "id": 335,
+        "word": "desultory",
+        "definition": "adj. 無目的的、散亂的、漫不經心的"
+    },
+    {
+        "id": 336,
+        "word": "detached",
+        "definition": "adj. 超然的、冷漠的、不帶情感的"
+    },
+    {
+        "id": 337,
+        "word": "detect",
+        "definition": "v. 洞察、查明"
+    },
+    {
+        "id": 338,
+        "word": "detection",
+        "definition": "n. 查出、探獲"
+    },
+    {
+        "id": 339,
+        "word": "deterrent",
+        "definition": "adj. 威懾的、遏制的"
+    },
+    {
+        "id": 340,
+        "word": "detour",
+        "definition": "n. 繞道、繞行的路"
+    },
+    {
+        "id": 341,
+        "word": "detract",
+        "definition": "v. 貶低、誹謗"
+    },
+    {
+        "id": 342,
+        "word": "deviant",
+        "definition": "adj. 反常的 n. 離經叛道者"
+    },
+    {
+        "id": 343,
+        "word": "deviate",
+        "definition": "v. 偏離、背離"
+    },
+    {
+        "id": 344,
+        "word": "devious",
+        "definition": "adj. 奸詐陰險的、(道路)曲折的"
+    },
+    {
+        "id": 345,
+        "word": "devoid",
+        "definition": "adj. 缺乏的 [be devoid of ]"
+    },
+    {
+        "id": 346,
+        "word": "devolve",
+        "definition": "v. 被轉移、被移交"
+    },
+    {
+        "id": 347,
+        "word": "devour",
+        "definition": "v. 狼吞虎嚥地吃"
+    },
+    {
+        "id": 348,
+        "word": "dexterous",
+        "definition": "adj. 靈巧的、熟練的"
+    },
+    {
+        "id": 349,
+        "word": "diatribe",
+        "definition": "n. 抨擊"
+    },
+    {
+        "id": 350,
+        "word": "dichotomy",
+        "definition": "n. 二分法、矛盾、分歧"
+    },
+    {
+        "id": 351,
+        "word": "dichotomy",
+        "definition": "n. 分裂、二分法"
+    },
+    {
+        "id": 352,
+        "word": "dictate",
+        "definition": "v. 命令、口述"
+    },
+    {
+        "id": 353,
+        "word": "didactic",
+        "definition": "adj. 說教的、教導的"
+    },
+    {
+        "id": 354,
+        "word": "diffident",
+        "definition": "adj. 缺乏自信的、懦弱的"
+    },
+    {
+        "id": 355,
+        "word": "diffuse",
+        "definition": "v. (知識、消息)傳播、擴散 adj. 擴散的"
+    },
+    {
+        "id": 356,
+        "word": "digressive",
+        "definition": "adj. 離題的"
+    },
+    {
+        "id": 357,
+        "word": "dilatory",
+        "definition": "adj. 磨蹭的、慢吞吞的 sluggish vs. expeditious"
+    },
+    {
+        "id": 358,
+        "word": "dilatory",
+        "definition": "adj. 磨蹭的、慢吞吞的"
+    },
+    {
+        "id": 359,
+        "word": "dilemma",
+        "definition": "n. 兩難、困境"
+    },
+    {
+        "id": 360,
+        "word": "dilute",
+        "definition": "v. 弄稀、弄淡"
+    },
+    {
+        "id": 361,
+        "word": "diminutive",
+        "definition": "adj. 非常小的、極小的 [同] minuscule"
+    },
+    {
+        "id": 362,
+        "word": "disabuse",
+        "definition": "v. 使省悟、糾正"
+    },
+    {
+        "id": 363,
+        "word": "disavow",
+        "definition": "v. 否認、推翻 = gainsay"
+    },
+    {
+        "id": 364,
+        "word": "discern",
+        "definition": "v. (費力地)識別、看出 n. discernment 鑑別力、鑑賞力"
+    },
+    {
+        "id": 365,
+        "word": "discomfit",
+        "definition": "v. 使困惑、使尷尬"
+    },
+    {
+        "id": 366,
+        "word": "disconsolate",
+        "definition": "adj. 沮喪的、憂鬱的、鬱鬱寡歡的"
+    },
+    {
+        "id": 367,
+        "word": "discourse",
+        "definition": "v./n. 論述"
+    },
+    {
+        "id": 368,
+        "word": "discredit",
+        "definition": "v. 使丟臉、使不可信"
+    },
+    {
+        "id": 369,
+        "word": "discreet",
+        "definition": "adj. 謹慎的、慎重的"
+    },
+    {
+        "id": 370,
+        "word": "discrepancy",
+        "definition": "n. 不同、矛盾"
+    },
+    {
+        "id": 371,
+        "word": "discrete",
+        "definition": "adj. 個別的、不連續的"
+    },
+    {
+        "id": 372,
+        "word": "discretion",
+        "definition": "n. 謹慎、斟酌"
+    },
+    {
+        "id": 373,
+        "word": "discretionary",
+        "definition": "adj. 任意的、自由決定的"
+    },
+    {
+        "id": 374,
+        "word": "discriminating",
+        "definition": "adj. 有辨別能力的、有區別的"
+    },
+    {
+        "id": 375,
+        "word": "discursive",
+        "definition": "adj. 散漫的、無層次的、東拉西扯的"
+    },
+    {
+        "id": 376,
+        "word": "disillusioned",
+        "definition": "adj. 幻想破滅的、醒悟的"
+    },
+    {
+        "id": 377,
+        "word": "disinclination",
+        "definition": "n. 不情願"
+    },
+    {
+        "id": 378,
+        "word": "disingenuous",
+        "definition": "adj. 不誠實的 [反]ingenuous"
+    },
+    {
+        "id": 379,
+        "word": "disintegrate",
+        "definition": "v. 使碎裂、使瓦解"
+    },
+    {
+        "id": 380,
+        "word": "disjunctive",
+        "definition": "adj. 分離的、相反的"
+    },
+    {
+        "id": 381,
+        "word": "dismiss",
+        "definition": "v. 讓...離開、把...打發走"
+    },
+    {
+        "id": 382,
+        "word": "disparage",
+        "definition": "v. 貶抑、輕蔑 [同]disdain [不屑做...sb. disdain to V.] n. disdain for sth./sb."
+    },
+    {
+        "id": 383,
+        "word": "disparate",
+        "definition": "adj. 不同的、異類的 n. disparity"
+    },
+    {
+        "id": 384,
+        "word": "dispassionate",
+        "definition": "adj. 不被感情所動的、冷靜的"
+    },
+    {
+        "id": 385,
+        "word": "dispatch",
+        "definition": "v. 派遣、發送(信件、包裹)、迅速處理"
+    },
+    {
+        "id": 386,
+        "word": "dispel",
+        "definition": "v. 驅散、消除"
+    },
+    {
+        "id": 387,
+        "word": "dispensable",
+        "definition": "adj. 不必要的、可有可無的 [反] indispensable 不可或缺的"
+    },
+    {
+        "id": 388,
+        "word": "dispense",
+        "definition": "v. 施予、分配、免除[+with]"
+    },
+    {
+        "id": 389,
+        "word": "disperse",
+        "definition": "v. 消散、驅散"
+    },
+    {
+        "id": 390,
+        "word": "disrupt",
+        "definition": "v. 使分裂、使瓦解"
+    },
+    {
+        "id": 391,
+        "word": "dissemble",
+        "definition": "v. 隱藏、掩飾"
+    },
+    {
+        "id": 392,
+        "word": "disseminate",
+        "definition": "v. 散步、傳播"
+    },
+    {
+        "id": 393,
+        "word": "dissent",
+        "definition": "n. 意見不一致 v. 不同意"
+    },
+    {
+        "id": 394,
+        "word": "dissident",
+        "definition": "n. 異議者"
+    },
+    {
+        "id": 395,
+        "word": "dissimulate",
+        "definition": "v. 隱藏、掩飾"
+    },
+    {
+        "id": 396,
+        "word": "dissipate",
+        "definition": "v. 使消失、驅散、浪費(金錢、時間和精力)"
+    },
+    {
+        "id": 397,
+        "word": "dissonant",
+        "definition": "adj. 不和諧的、不一致的"
+    },
+    {
+        "id": 398,
+        "word": "distain",
+        "definition": "v. 輕蔑、鄙視 [同] scorn, despise, spurn"
+    },
+    {
+        "id": 399,
+        "word": "distend",
+        "definition": "v. (使)膨脹、脹大"
+    },
+    {
+        "id": 400,
+        "word": "distortion",
+        "definition": "n. 扭曲、曲解"
+    },
+    {
+        "id": 401,
+        "word": "diurnal",
+        "definition": "adj. 白晝的、白天的"
+    },
+    {
+        "id": 402,
+        "word": "divergent",
+        "definition": "adj. 分歧的、相異的"
+    },
+    {
+        "id": 403,
+        "word": "divergent",
+        "definition": "adj. 分歧的、相異的"
+    },
+    {
+        "id": 404,
+        "word": "divert",
+        "definition": "v. 使...轉向、改變(資金)用途、轉接(電話)、分散(注意力)"
+    },
+    {
+        "id": 405,
+        "word": "divulge",
+        "definition": "v. 洩漏(秘密)、透漏(訊息)"
+    },
+    {
+        "id": 406,
+        "word": "docile",
+        "definition": "adj. 馴服的、易駕馭的"
+    },
+    {
+        "id": 407,
+        "word": "doctrinaire",
+        "definition": "adj. 教條的、迂腐的"
+    },
+    {
+        "id": 408,
+        "word": "dogmatism",
+        "definition": "n. 教條主義 adj. dogmatic"
+    },
+    {
+        "id": 409,
+        "word": "doleful",
+        "definition": "adj. 悲傷的、憂鬱的"
+    },
+    {
+        "id": 410,
+        "word": "dolorous",
+        "definition": "adj. 悲痛的、憂傷的"
+    },
+    {
+        "id": 411,
+        "word": "dormant",
+        "definition": "adj. 休眠的、靜止的"
+    },
+    {
+        "id": 412,
+        "word": "dubious",
+        "definition": "adj. 半信半疑的"
+    },
+    {
+        "id": 413,
+        "word": "duplicate",
+        "definition": "adj. 完全一樣的、複製的"
+    },
+    {
+        "id": 414,
+        "word": "duplicitous",
+        "definition": "adj. 搞兩面派的、奸詐的"
+    },
+    {
+        "id": 415,
+        "word": "duplicity",
+        "definition": "n. 欺騙行為"
+    },
+    {
+        "id": 416,
+        "word": "duplicity",
+        "definition": "n. 欺騙、口是心非"
+    },
+    {
+        "id": 417,
+        "word": "eccentric",
+        "definition": "adj. 古怪的、反常的 n. eccentricity"
+    },
+    {
+        "id": 418,
+        "word": "eclectic",
+        "definition": "adj. 折衷的、綜合性的"
+    },
+    {
+        "id": 419,
+        "word": "eclipse",
+        "definition": "n. 日或月蝕 v. 黯然失色"
+    },
+    {
+        "id": 420,
+        "word": "ecstatic",
+        "definition": "adj. 狂喜的"
+    },
+    {
+        "id": 421,
+        "word": "efface",
+        "definition": "v. 擦去、抹去"
+    },
+    {
+        "id": 422,
+        "word": "efficacious",
+        "definition": "adj. 有效的、靈驗的"
+    },
+    {
+        "id": 423,
+        "word": "effrontery",
+        "definition": "n. 厚顏無恥"
+    },
+    {
+        "id": 424,
+        "word": "effusive",
+        "definition": "adj. 熱情的、感情洋溢的"
+    },
+    {
+        "id": 425,
+        "word": "egalitarian",
+        "definition": "n./adj. 主張人人平等的"
+    },
+    {
+        "id": 426,
+        "word": "egocentric",
+        "definition": "adj. 自我中心的"
+    },
+    {
+        "id": 427,
+        "word": "egregious",
+        "definition": "adj. (缺點) 極壞的、驚人的"
+    },
+    {
+        "id": 428,
+        "word": "elaboration",
+        "definition": "n. 詳盡的闡述"
+    },
+    {
+        "id": 429,
+        "word": "elevate",
+        "definition": "v. 提拔、提高、舉起"
+    },
+    {
+        "id": 430,
+        "word": "elicit",
+        "definition": "v. 引出、引誘"
+    },
+    {
+        "id": 431,
+        "word": "eloquence",
+        "definition": "n. 口才、雄辯"
+    },
+    {
+        "id": 432,
+        "word": "elucidate",
+        "definition": "v. 闡明、說明"
+    },
+    {
+        "id": 433,
+        "word": "elude",
+        "definition": "v. 錯過未獲得、躲避"
+    },
+    {
+        "id": 434,
+        "word": "elusive",
+        "definition": "adj. 難以得到、難以記得、難以描述"
+    },
+    {
+        "id": 435,
+        "word": "emanate",
+        "definition": "v. 散發、發出"
+    },
+    {
+        "id": 436,
+        "word": "embellish",
+        "definition": "v. 美化、裝飾"
+    },
+    {
+        "id": 437,
+        "word": "emend",
+        "definition": "v. 校訂、修改"
+    },
+    {
+        "id": 438,
+        "word": "eminence",
+        "definition": "n. 卓越、顯赫、著名"
+    },
+    {
+        "id": 439,
+        "word": "empathy",
+        "definition": "n. 同理"
+    },
+    {
+        "id": 440,
+        "word": "emulate",
+        "definition": "v. (因欽慕而)效法、仿效"
+    },
+    {
+        "id": 441,
+        "word": "enamored",
+        "definition": "adj. 迷戀的"
+    },
+    {
+        "id": 442,
+        "word": "encapsulate",
+        "definition": "v. 概括、概述"
+    },
+    {
+        "id": 443,
+        "word": "encapsulation",
+        "definition": "n. 概括"
+    },
+    {
+        "id": 444,
+        "word": "encumber",
+        "definition": "v. 妨礙、拖累"
+    },
+    {
+        "id": 445,
+        "word": "encyclopedic",
+        "definition": "adj. 百科全書的、知識廣博的"
+    },
+    {
+        "id": 446,
+        "word": "endemic",
+        "definition": "adj. (疾病等)地方性的"
+    },
+    {
+        "id": 447,
+        "word": "endorse",
+        "definition": "v. 背書、贊同"
+    },
+    {
+        "id": 448,
+        "word": "endure",
+        "definition": "v. 忍受、忍耐"
+    },
+    {
+        "id": 449,
+        "word": "enervate",
+        "definition": "v. 使失去活力、使衰弱 adj. 衰弱的"
+    },
+    {
+        "id": 450,
+        "word": "engender",
+        "definition": "v. 產生、引起"
+    },
+    {
+        "id": 451,
+        "word": "enigma",
+        "definition": "n. 難以理解的事物、謎 enigmatic (adj.)"
+    },
+    {
+        "id": 452,
+        "word": "enmity",
+        "definition": "n. 敵意、不和"
+    },
+    {
+        "id": 453,
+        "word": "entreat",
+        "definition": "v. 懇求、乞求 n. entreaty"
+    },
+    {
+        "id": 454,
+        "word": "envision",
+        "definition": "v. 想像、預想"
+    },
+    {
+        "id": 455,
+        "word": "ephemeral",
+        "definition": "adj. 朝生暮死的、生命短暫的"
+    },
+    {
+        "id": 456,
+        "word": "epitome",
+        "definition": "n. 典型、摘要"
+    },
+    {
+        "id": 457,
+        "word": "equable",
+        "definition": "adj. 穩定的、不變的"
+    },
+    {
+        "id": 458,
+        "word": "equanimity",
+        "definition": "n. 鎮定、沉著"
+    },
+    {
+        "id": 459,
+        "word": "equate",
+        "definition": "v. 認為...想等或相仿"
+    },
+    {
+        "id": 460,
+        "word": "equilibrium",
+        "definition": "n. 平衡"
+    },
+    {
+        "id": 461,
+        "word": "equitable",
+        "definition": "adj. 公正的、合理的"
+    },
+    {
+        "id": 462,
+        "word": "equivalent",
+        "definition": "adj.相等的、等值的"
+    },
+    {
+        "id": 463,
+        "word": "equivocal",
+        "definition": "adj. 模稜兩可的 adv. equivocally [反] unequivocal"
+    },
+    {
+        "id": 464,
+        "word": "equivocal",
+        "definition": "adj. 模稜兩可的、不明確的"
+    },
+    {
+        "id": 465,
+        "word": "eradicate",
+        "definition": "v. 根除、撲滅"
+    },
+    {
+        "id": 466,
+        "word": "errand",
+        "definition": "n. 差事、差使"
+    },
+    {
+        "id": 467,
+        "word": "errant",
+        "definition": "adj. 錯誤的"
+    },
+    {
+        "id": 468,
+        "word": "erratic",
+        "definition": "adj. 反覆無常的、古怪的"
+    },
+    {
+        "id": 469,
+        "word": "erroneous",
+        "definition": "adj. 錯誤的、不正確的"
+    },
+    {
+        "id": 470,
+        "word": "erudite",
+        "definition": "adj. 博學的"
+    },
+    {
+        "id": 471,
+        "word": "escalate",
+        "definition": "v. 擴大、升級、惡化"
+    },
+    {
+        "id": 472,
+        "word": "ethos",
+        "definition": "n. 道德風貌、信仰"
+    },
+    {
+        "id": 473,
+        "word": "euphemism",
+        "definition": "n. 委婉的說法"
+    },
+    {
+        "id": 474,
+        "word": "euphoria",
+        "definition": "n. 心情愉快、興奮"
+    },
+    {
+        "id": 475,
+        "word": "evacuate",
+        "definition": "v. 撤離、撤退"
+    },
+    {
+        "id": 476,
+        "word": "evade",
+        "definition": "v. 逃避、規避"
+    },
+    {
+        "id": 477,
+        "word": "evanescent",
+        "definition": "adj. 逐漸消失的、短暫的"
+    },
+    {
+        "id": 478,
+        "word": "evaporate",
+        "definition": "v. 使蒸發"
+    },
+    {
+        "id": 479,
+        "word": "evince",
+        "definition": "v. 表明、顯現出"
+    },
+    {
+        "id": 480,
+        "word": "evocative",
+        "definition": "adj. 喚起的、激起的"
+    },
+    {
+        "id": 481,
+        "word": "exacerbate",
+        "definition": "v. 加重、惡化"
+    },
+    {
+        "id": 482,
+        "word": "exacting",
+        "definition": "adj. 嚴格的、嚴厲的"
+    },
+    {
+        "id": 483,
+        "word": "exactitute",
+        "definition": "n. 正確性、精確性"
+    },
+    {
+        "id": 484,
+        "word": "exalt",
+        "definition": "v. 讚揚、頌揚"
+    },
+    {
+        "id": 485,
+        "word": "exasperate",
+        "definition": "v. 激怒、使惱怒"
+    },
+    {
+        "id": 486,
+        "word": "excavate",
+        "definition": "v. 挖掘、挖出"
+    },
+    {
+        "id": 487,
+        "word": "excoriate",
+        "definition": "v. 痛責、剝(皮)"
+    },
+    {
+        "id": 488,
+        "word": "excrete",
+        "definition": "v. 分泌、排泄"
+    },
+    {
+        "id": 489,
+        "word": "exculpate",
+        "definition": "v. 開脫、申明無罪 n. culpability: the fact of being responsible and deserving blame for having done something wrong"
+    },
+    {
+        "id": 490,
+        "word": "exempt",
+        "definition": "v. 免除、豁免"
+    },
+    {
+        "id": 491,
+        "word": "exhilarate",
+        "definition": "v. 使振奮、使高興"
+    },
+    {
+        "id": 492,
+        "word": "exhort",
+        "definition": "v. 勸告、規勸"
+    },
+    {
+        "id": 493,
+        "word": "exigent",
+        "definition": "adj. 緊急的、要求多的"
+    },
+    {
+        "id": 494,
+        "word": "exonerate",
+        "definition": "v. 免除責任、宣布無罪"
+    },
+    {
+        "id": 495,
+        "word": "exorcise",
+        "definition": "v. 驅魔、除去(壞念頭)"
+    },
+    {
+        "id": 496,
+        "word": "expedient",
+        "definition": "adj. 方便的、權宜的 adj. expeditious 快速有效的"
+    },
+    {
+        "id": 497,
+        "word": "explicable",
+        "definition": "adj. 可解釋的、可辨明的 [反]inexplicable"
+    },
+    {
+        "id": 498,
+        "word": "explicit",
+        "definition": "adj. 詳盡的、清楚的、明確的"
+    },
+    {
+        "id": 499,
+        "word": "extant",
+        "definition": "adj. 尚存的、現存的"
+    },
+    {
+        "id": 500,
+        "word": "extemporize",
+        "definition": "v. 即席發言、即興演奏"
+    },
+    {
+        "id": 501,
+        "word": "extenuate",
+        "definition": "v. 掩飾、減輕罪過"
+    },
+    {
+        "id": 502,
+        "word": "exterminate",
+        "definition": "v. 消滅、滅絕"
+    },
+    {
+        "id": 503,
+        "word": "extrapolate",
+        "definition": "v. 推斷"
+    },
+    {
+        "id": 504,
+        "word": "extravagant",
+        "definition": "adj. 奢侈的、揮霍的"
+    },
+    {
+        "id": 505,
+        "word": "facade",
+        "definition": "n. 建築物的正面、(虛偽的)外表"
+    },
+    {
+        "id": 506,
+        "word": "facetious",
+        "definition": "adj. 輕浮的、好開玩笑的"
+    },
+    {
+        "id": 507,
+        "word": "facile",
+        "definition": "adj. 膚淺的"
+    },
+    {
+        "id": 508,
+        "word": "facility",
+        "definition": "n. 設施、才能"
+    },
+    {
+        "id": 509,
+        "word": "factotum",
+        "definition": "n. 雜工、打雜"
+    },
+    {
+        "id": 510,
+        "word": "factual",
+        "definition": "adj. 真實的"
+    },
+    {
+        "id": 511,
+        "word": "fallacious",
+        "definition": "adj. 欺騙的、謬誤的"
+    },
+    {
+        "id": 512,
+        "word": "fallibility",
+        "definition": "n. 易出錯"
+    },
+    {
+        "id": 513,
+        "word": "falsification",
+        "definition": "n. 竄改、編造"
+    },
+    {
+        "id": 514,
+        "word": "fanatical",
+        "definition": "adj. 狂熱的、盲信的"
+    },
+    {
+        "id": 515,
+        "word": "fanciful",
+        "definition": "adj. 幻想的、奇特的"
+    },
+    {
+        "id": 516,
+        "word": "feckless",
+        "definition": "adj. 無效的、無能的"
+    },
+    {
+        "id": 517,
+        "word": "felicitate",
+        "definition": "v. 向...致賀、為...慶祝"
+    },
+    {
+        "id": 518,
+        "word": "felicitous",
+        "definition": "adj. 妥當的、合宜的、貼切的"
+    },
+    {
+        "id": 519,
+        "word": "fervent",
+        "definition": "adj. 炙熱的、熱情的"
+    },
+    {
+        "id": 520,
+        "word": "figurative",
+        "definition": "adj. 比喻的、象徵的"
+    },
+    {
+        "id": 521,
+        "word": "finesse",
+        "definition": "n. 非凡的技巧、技術"
+    },
+    {
+        "id": 522,
+        "word": "fine-tune",
+        "definition": "v. 對...進行微調"
+    },
+    {
+        "id": 523,
+        "word": "fixate",
+        "definition": "v. 注視[+on]"
+    },
+    {
+        "id": 524,
+        "word": "flameboyant",
+        "definition": "adj. 艷麗的、炫耀的"
+    },
+    {
+        "id": 525,
+        "word": "florid",
+        "definition": "adj. (氣色)紅潤的、華麗的"
+    },
+    {
+        "id": 526,
+        "word": "fluid",
+        "definition": "adj. 流動的、易變的"
+    },
+    {
+        "id": 527,
+        "word": "forbid",
+        "definition": "v. 禁止"
+    },
+    {
+        "id": 528,
+        "word": "forbidding",
+        "definition": "adj. 可怕的(外貌)"
+    },
+    {
+        "id": 529,
+        "word": "foreordain",
+        "definition": "v. 預先注定"
+    },
+    {
+        "id": 530,
+        "word": "forestall",
+        "definition": "v. 先發制人、預先阻止"
+    },
+    {
+        "id": 531,
+        "word": "forfeit",
+        "definition": "v. 喪失、被罰沒收"
+    },
+    {
+        "id": 532,
+        "word": "formative",
+        "definition": "adj. 形成的、構成的"
+    },
+    {
+        "id": 533,
+        "word": "formulaic",
+        "definition": "adj. 公式的、刻板的"
+    },
+    {
+        "id": 534,
+        "word": "fortify",
+        "definition": "v. 增強、加強"
+    },
+    {
+        "id": 535,
+        "word": "founder",
+        "definition": "v. 沉沒、失敗"
+    },
+    {
+        "id": 536,
+        "word": "fractious",
+        "definition": "adj. (脾氣) 易怒的、好爭吵的 [同] cantankerous n. fractiousness"
+    },
+    {
+        "id": 537,
+        "word": "fragmentary",
+        "definition": "adj. 碎片的、片段的"
+    },
+    {
+        "id": 538,
+        "word": "fraudulent",
+        "definition": "adj. 欺騙的、不誠實的 n. fraudulence"
+    },
+    {
+        "id": 539,
+        "word": "frivolous",
+        "definition": "adj. 輕浮的、草率的"
+    },
+    {
+        "id": 540,
+        "word": "fugitive",
+        "definition": "adj. 短暫的 n. 逃犯"
+    },
+    {
+        "id": 541,
+        "word": "fulminate",
+        "definition": "v. 大聲斥責"
+    },
+    {
+        "id": 542,
+        "word": "genealogy",
+        "definition": "n. 家譜"
+    },
+    {
+        "id": 543,
+        "word": "generic",
+        "definition": "adj. 通稱的、種類的"
+    },
+    {
+        "id": 544,
+        "word": "genesis",
+        "definition": "n. 創始、起源"
+    },
+    {
+        "id": 545,
+        "word": "genial",
+        "definition": "adj. 友善的、親切的"
+    },
+    {
+        "id": 546,
+        "word": "genome",
+        "definition": "n. 基因組、染色體組"
+    },
+    {
+        "id": 547,
+        "word": "genre",
+        "definition": "n. 文藝作品類型"
+    },
+    {
+        "id": 548,
+        "word": "germane",
+        "definition": "adj. 有密切關係的"
+    },
+    {
+        "id": 549,
+        "word": "germinate",
+        "definition": "v. 發芽、發展"
+    },
+    {
+        "id": 550,
+        "word": "grandiloquence",
+        "definition": "n. 豪言壯語、誇大之言"
+    },
+    {
+        "id": 551,
+        "word": "grandiose",
+        "definition": "adj. 誇大的、華而不實的"
+    },
+    {
+        "id": 552,
+        "word": "gratify",
+        "definition": "v. 使高興、滿足"
+    },
+    {
+        "id": 553,
+        "word": "gregarious",
+        "definition": "adj. 群居的、愛社交的"
+    },
+    {
+        "id": 554,
+        "word": "guile",
+        "definition": "n. 欺騙"
+    },
+    {
+        "id": 555,
+        "word": "gullible",
+        "definition": "adj. 易受騙的"
+    },
+    {
+        "id": 556,
+        "word": "hallmark",
+        "definition": "n. 標誌、特徵"
+    },
+    {
+        "id": 557,
+        "word": "hamstring",
+        "definition": "v. 使難有作為、使殘廢"
+    },
+    {
+        "id": 558,
+        "word": "haphazard",
+        "definition": "adj. 無計畫的、任意的 adv. haphazardly"
+    },
+    {
+        "id": 559,
+        "word": "harbinger",
+        "definition": "n. (尤指不詳的) 先兆、預示"
+    },
+    {
+        "id": 560,
+        "word": "herald",
+        "definition": "v. 預告、宣布 n. 傳令官"
+    },
+    {
+        "id": 561,
+        "word": "herbivorous",
+        "definition": "adj. 食草的"
+    },
+    {
+        "id": 562,
+        "word": "herbivorous",
+        "definition": "adj. 草食性的"
+    },
+    {
+        "id": 563,
+        "word": "heredity",
+        "definition": "n. 遺傳"
+    },
+    {
+        "id": 564,
+        "word": "heretical",
+        "definition": "adj. 異端的"
+    },
+    {
+        "id": 565,
+        "word": "heterodox",
+        "definition": "adj. 異端的、非正統的"
+    },
+    {
+        "id": 566,
+        "word": "heterogeneous",
+        "definition": "adj. 異類的、不同的"
+    },
+    {
+        "id": 567,
+        "word": "hierarchy",
+        "definition": "n. 階層、等級制度"
+    },
+    {
+        "id": 568,
+        "word": "hieroglyph",
+        "definition": "n. 象形文字"
+    },
+    {
+        "id": 569,
+        "word": "hilarious",
+        "definition": "adj. 非常可笑的"
+    },
+    {
+        "id": 570,
+        "word": "holocaust",
+        "definition": "n. 大屠殺、浩劫"
+    },
+    {
+        "id": 571,
+        "word": "homogeneous",
+        "definition": "adj. 同種的、同質的"
+    },
+    {
+        "id": 572,
+        "word": "hortative",
+        "definition": "adj. 勸告的、獎勵的"
+    },
+    {
+        "id": 573,
+        "word": "hortatory",
+        "definition": "adj. 勸告的、忠告的"
+    },
+    {
+        "id": 574,
+        "word": "humble",
+        "definition": "adj. 卑微的、簡陋的、謙虛的 [同] modest, unostentatious"
+    },
+    {
+        "id": 575,
+        "word": "humdrum",
+        "definition": "adj. 單調的、過於平凡的、乏味的"
+    },
+    {
+        "id": 576,
+        "word": "humility",
+        "definition": "n. 謙遜、謙恭"
+    },
+    {
+        "id": 577,
+        "word": "hydrate",
+        "definition": "v. 使成水合物"
+    },
+    {
+        "id": 578,
+        "word": "hyperbole",
+        "definition": "n. 誇張"
+    },
+    {
+        "id": 579,
+        "word": "hypocrisy",
+        "definition": "n. 偽善、虛偽 adj. hypocritic"
+    },
+    {
+        "id": 580,
+        "word": "hypocrite",
+        "definition": "n. 偽善者"
+    },
+    {
+        "id": 581,
+        "word": "iconoclastic",
+        "definition": "adj. 偶像破壞的、打破舊習的"
+    },
+    {
+        "id": 582,
+        "word": "ideology",
+        "definition": "n. 意識形態"
+    },
+    {
+        "id": 583,
+        "word": "idiosyncrasy",
+        "definition": "n. 氣質、習性"
+    },
+    {
+        "id": 584,
+        "word": "idiosyncratic",
+        "definition": "adj. 有氣質的、有特性的"
+    },
+    {
+        "id": 585,
+        "word": "idiosyncratic",
+        "definition": "adj. 有氣質的、有特性的"
+    },
+    {
+        "id": 586,
+        "word": "idolatrize",
+        "definition": "v. 奉為偶像、盲目崇拜"
+    },
+    {
+        "id": 587,
+        "word": "ignominious",
+        "definition": "adj. 可恥的、恥辱的"
+    },
+    {
+        "id": 588,
+        "word": "iliberal",
+        "definition": "adj. 吝嗇的"
+    },
+    {
+        "id": 589,
+        "word": "illuminate",
+        "definition": "v. 闡明、解釋、照亮"
+    },
+    {
+        "id": 590,
+        "word": "illustrative",
+        "definition": "adj. 解說性的、用作說明的"
+    },
+    {
+        "id": 591,
+        "word": "illustrious",
+        "definition": "adj. 著名的、卓越的"
+    },
+    {
+        "id": 592,
+        "word": "imbibe",
+        "definition": "v. 飲、喝"
+    },
+    {
+        "id": 593,
+        "word": "imitable",
+        "definition": "adj. 可模仿的"
+    },
+    {
+        "id": 594,
+        "word": "imitative",
+        "definition": "adj. 模仿的"
+    },
+    {
+        "id": 595,
+        "word": "immense",
+        "definition": "adj. 巨大的、廣大的、無邊無際的"
+    },
+    {
+        "id": 596,
+        "word": "imminent",
+        "definition": "adj. 即將發生的、逼近的"
+    },
+    {
+        "id": 597,
+        "word": "immune",
+        "definition": "adj. 免疫的、免除的"
+    },
+    {
+        "id": 598,
+        "word": "immutable",
+        "definition": "adj. 不變的"
+    },
+    {
+        "id": 599,
+        "word": "impart",
+        "definition": "v. 給予[a sense of...]、傳授[knowledge...]"
+    },
+    {
+        "id": 600,
+        "word": "impartial",
+        "definition": "adj. 公平的、無私的"
+    },
+    {
+        "id": 601,
+        "word": "impasse",
+        "definition": "n. 絕境、僵局"
+    },
+    {
+        "id": 602,
+        "word": "impassioned",
+        "definition": "adj. 充滿激情的、慷慨激昂的、熱烈的"
+    },
+    {
+        "id": 603,
+        "word": "impassive",
+        "definition": "adj. 不露感情的、無動於衷的、冷漠的"
+    },
+    {
+        "id": 604,
+        "word": "impeccable",
+        "definition": "adj. 無懈可擊的、無缺點的"
+    },
+    {
+        "id": 605,
+        "word": "impecunious",
+        "definition": "adj. 沒錢的、一貧如洗的"
+    },
+    {
+        "id": 606,
+        "word": "impede",
+        "definition": "v. 妨礙、阻礙、阻止 n. impediment"
+    },
+    {
+        "id": 607,
+        "word": "impel",
+        "definition": "v. 推進、推動"
+    },
+    {
+        "id": 608,
+        "word": "impending",
+        "definition": "adj. 即將發生的、逼近的"
+    },
+    {
+        "id": 609,
+        "word": "imperative",
+        "definition": "adj. 必要的、極為重要的、緊急的"
+    },
+    {
+        "id": 610,
+        "word": "imperative",
+        "definition": "adj. 必要的、緊急的"
+    },
+    {
+        "id": 611,
+        "word": "imperious",
+        "definition": "adj. 專橫的、傲慢的、飛揚跋扈的"
+    },
+    {
+        "id": 612,
+        "word": "imperious",
+        "definition": "adj. 跋扈的、專橫的"
+    },
+    {
+        "id": 613,
+        "word": "impermanent",
+        "definition": "adj. 非永久的、短暫的"
+    },
+    {
+        "id": 614,
+        "word": "impertinent",
+        "definition": "adj. 粗魯無禮的、傲慢的"
+    },
+    {
+        "id": 615,
+        "word": "imperturbable",
+        "definition": "adj. 冷靜的、沉著的"
+    },
+    {
+        "id": 616,
+        "word": "impervious",
+        "definition": "adj. 不受影響的、無動於衷的"
+    },
+    {
+        "id": 617,
+        "word": "impetuous",
+        "definition": "adj. 性急的、魯莽的、衝動的"
+    },
+    {
+        "id": 618,
+        "word": "impetus",
+        "definition": "n. 推動力、刺激"
+    },
+    {
+        "id": 619,
+        "word": "implacable",
+        "definition": "adj. 不能安撫的、難和解的"
+    },
+    {
+        "id": 620,
+        "word": "implausible",
+        "definition": "adj. 難以置信的、不像真實的"
+    },
+    {
+        "id": 621,
+        "word": "impolitic",
+        "definition": "adj. 不明智的"
+    },
+    {
+        "id": 622,
+        "word": "imposing",
+        "definition": "adj. 壯麗的、宏偉的 [類] sublime"
+    },
+    {
+        "id": 623,
+        "word": "impostor",
+        "definition": "n. 冒充者、騙子"
+    },
+    {
+        "id": 624,
+        "word": "improvise",
+        "definition": "v. 即興創作 extemporize"
+    },
+    {
+        "id": 625,
+        "word": "imprudent",
+        "definition": "adj. 不謹慎的、輕率的、魯莽的"
+    },
+    {
+        "id": 626,
+        "word": "impudent",
+        "definition": "adj. 放肆的、無禮的"
+    },
+    {
+        "id": 627,
+        "word": "impugn",
+        "definition": "v. 指責、質疑(他人動機和誠信)"
+    },
+    {
+        "id": 628,
+        "word": "impulse",
+        "definition": "n. 衝動"
+    },
+    {
+        "id": 629,
+        "word": "impulsive",
+        "definition": "adj. 衝動的"
+    },
+    {
+        "id": 630,
+        "word": "inadvertent",
+        "definition": "adj. 不注意的、怠慢的"
+    },
+    {
+        "id": 631,
+        "word": "inalienable",
+        "definition": "adj. 不可剝奪的"
+    },
+    {
+        "id": 632,
+        "word": "incendiary",
+        "definition": "adj. 放火的、縱火的 n. 燃燒彈、縱火犯"
+    },
+    {
+        "id": 633,
+        "word": "incense",
+        "definition": "n. 香 v. 激怒"
+    },
+    {
+        "id": 634,
+        "word": "incentive",
+        "definition": "n. 刺激、鼓勵"
+    },
+    {
+        "id": 635,
+        "word": "incessant",
+        "definition": "adj. 不停的、連續的、持續不斷的"
+    },
+    {
+        "id": 636,
+        "word": "incinerate",
+        "definition": "v. 焚化、毀滅 incinerator n. 焚化爐"
+    },
+    {
+        "id": 637,
+        "word": "incipient",
+        "definition": "adj. 初期的、初始的"
+    },
+    {
+        "id": 638,
+        "word": "incommensurate",
+        "definition": "adj.不能配合的、不相稱的"
+    },
+    {
+        "id": 639,
+        "word": "incongruous",
+        "definition": "adj. 不協調的、不一致的"
+    },
+    {
+        "id": 640,
+        "word": "inconsequential",
+        "definition": "adj. 不重要的、微不足道的"
+    },
+    {
+        "id": 641,
+        "word": "incontrovertible",
+        "definition": "adj. 無疑的、明白的"
+    },
+    {
+        "id": 642,
+        "word": "increment",
+        "definition": "n. 增加、增值"
+    },
+    {
+        "id": 643,
+        "word": "incubate",
+        "definition": "v. 孵化、孵卵"
+    },
+    {
+        "id": 644,
+        "word": "incumbent",
+        "definition": "adj. 負有職責的、義不容辭的"
+    },
+    {
+        "id": 645,
+        "word": "indict",
+        "definition": "v. 控訴、起訴"
+    },
+    {
+        "id": 646,
+        "word": "indigenous",
+        "definition": "adj. 土產的、本地的、天生的"
+    },
+    {
+        "id": 647,
+        "word": "indiscriminate",
+        "definition": "adj. 不加區別的、無差別的、不分皂白的"
+    },
+    {
+        "id": 648,
+        "word": "indolent",
+        "definition": "adj. 懶惰的"
+    },
+    {
+        "id": 649,
+        "word": "inept",
+        "definition": "adj. 無能的、不洽當的"
+    },
+    {
+        "id": 650,
+        "word": "inert",
+        "definition": "adj. 惰性的、行動遲鈍的"
+    },
+    {
+        "id": 651,
+        "word": "inexorable",
+        "definition": "adj. 不為所動的、堅決不變的"
+    },
+    {
+        "id": 652,
+        "word": "infelicitous",
+        "definition": "adj. 不幸的、不適當的"
+    },
+    {
+        "id": 653,
+        "word": "infelicity",
+        "definition": "n. 不幸、不適當"
+    },
+    {
+        "id": 654,
+        "word": "infinite",
+        "definition": "adj. 無限的、無窮的 vs. finite"
+    },
+    {
+        "id": 655,
+        "word": "inflammatory",
+        "definition": "adj. 令人激動的、煽動的"
+    },
+    {
+        "id": 656,
+        "word": "inflate",
+        "definition": "v. 使充氣、使膨脹"
+    },
+    {
+        "id": 657,
+        "word": "inflict",
+        "definition": "v. 給予(打擊)、使遭受(損傷)"
+    },
+    {
+        "id": 658,
+        "word": "infuse",
+        "definition": "v. 灌輸、鼓勵"
+    },
+    {
+        "id": 659,
+        "word": "ingenious",
+        "definition": "adj. 聰明的、有發明天才的"
+    },
+    {
+        "id": 660,
+        "word": "ingest",
+        "definition": "v. 吞下、嚥下"
+    },
+    {
+        "id": 661,
+        "word": "ingrain",
+        "definition": "v. 使...根深蒂固"
+    },
+    {
+        "id": 662,
+        "word": "ingrate",
+        "definition": "n. 忘恩負義的人"
+    },
+    {
+        "id": 663,
+        "word": "ingratiate",
+        "definition": "v. 使得到...歡心、迎合"
+    },
+    {
+        "id": 664,
+        "word": "ingratiating",
+        "definition": "adj. 討好的、諂媚的"
+    },
+    {
+        "id": 665,
+        "word": "inhumane",
+        "definition": "adj. 不近人情的、殘忍的"
+    },
+    {
+        "id": 666,
+        "word": "inimical",
+        "definition": "adj. 不利的"
+    },
+    {
+        "id": 667,
+        "word": "iniquitous",
+        "definition": "adj. 極不公正的、邪惡的"
+    },
+    {
+        "id": 668,
+        "word": "innate",
+        "definition": "adj. 天生的、與生俱來的"
+    },
+    {
+        "id": 669,
+        "word": "innocence",
+        "definition": "n. 無辜、清白"
+    },
+    {
+        "id": 670,
+        "word": "innocuous",
+        "definition": "adj. (行為、言論) 無害的"
+    },
+    {
+        "id": 671,
+        "word": "innovative",
+        "definition": "adj. 創新的"
+    },
+    {
+        "id": 672,
+        "word": "inordinate",
+        "definition": "adj. 過度的、過分的"
+    },
+    {
+        "id": 673,
+        "word": "insatiable",
+        "definition": "adj. 無法滿足的、貪得無厭的"
+    },
+    {
+        "id": 674,
+        "word": "inscription",
+        "definition": "n. 銘刻、題字"
+    },
+    {
+        "id": 675,
+        "word": "inscrutable",
+        "definition": "adj. 高深莫測的、神秘的"
+    },
+    {
+        "id": 676,
+        "word": "insidious",
+        "definition": "adj. 隱藏詭計的"
+    },
+    {
+        "id": 677,
+        "word": "insipid",
+        "definition": "adj. 沒有味道的、清淡的"
+    },
+    {
+        "id": 678,
+        "word": "insolent",
+        "definition": "adj. 粗魯無禮的、傲慢的"
+    },
+    {
+        "id": 679,
+        "word": "insouciance",
+        "definition": "n. 無憂無慮、不注意、不在乎 [同] nonchalance"
+    },
+    {
+        "id": 680,
+        "word": "insouciant",
+        "definition": "adj. 漫不經心的、不在乎的"
+    },
+    {
+        "id": 681,
+        "word": "inspired",
+        "definition": "adj. 有創見的、有靈感的"
+    },
+    {
+        "id": 682,
+        "word": "instigate",
+        "definition": "v. 發起、煽動"
+    },
+    {
+        "id": 683,
+        "word": "instructive",
+        "definition": "adj. 有啟發性的"
+    },
+    {
+        "id": 684,
+        "word": "insubordinate",
+        "definition": "adj. 不服從的、違抗的"
+    },
+    {
+        "id": 685,
+        "word": "insular",
+        "definition": "adj. 思想狹隘的、島嶼的"
+    },
+    {
+        "id": 686,
+        "word": "intangible",
+        "definition": "adj. 觸摸不到的、無形的、無實體的"
+    },
+    {
+        "id": 687,
+        "word": "integrity",
+        "definition": "n. 正直、誠實"
+    },
+    {
+        "id": 688,
+        "word": "intemperance",
+        "definition": "n. 放縱、不節制"
+    },
+    {
+        "id": 689,
+        "word": "intermediary",
+        "definition": "n. 仲裁者、中間物"
+    },
+    {
+        "id": 690,
+        "word": "interminable",
+        "definition": "adj. 無盡頭的"
+    },
+    {
+        "id": 691,
+        "word": "intermittent",
+        "definition": "adj. 間歇的、時斷時續的"
+    },
+    {
+        "id": 692,
+        "word": "interrogate",
+        "definition": "v. 訊問、審訊"
+    },
+    {
+        "id": 693,
+        "word": "intimidate",
+        "definition": "v. 威嚇、脅迫"
+    },
+    {
+        "id": 694,
+        "word": "intoxicate",
+        "definition": "v. 使沉醉、使欣喜若狂、使喝醉"
+    },
+    {
+        "id": 695,
+        "word": "intractable",
+        "definition": "adj. 倔強的、難管的 n. intractability"
+    },
+    {
+        "id": 696,
+        "word": "intransigent",
+        "definition": "adj. 不妥協的、不讓步的"
+    },
+    {
+        "id": 697,
+        "word": "intrepid",
+        "definition": "adj. 無畏的、剛毅的"
+    },
+    {
+        "id": 698,
+        "word": "intricate",
+        "definition": "adj. 複雜難懂的 n. intricacy"
+    },
+    {
+        "id": 699,
+        "word": "intrigue",
+        "definition": "v. 引起極大興趣 adj. intriguing n. 密謀"
+    },
+    {
+        "id": 700,
+        "word": "introspective",
+        "definition": "adj. 內省的、反思的、自省的"
+    },
+    {
+        "id": 701,
+        "word": "intrude",
+        "definition": "v. 侵擾[+into]、干擾[+on]、侵入"
+    },
+    {
+        "id": 702,
+        "word": "invade",
+        "definition": "v. 入侵、侵略"
+    },
+    {
+        "id": 703,
+        "word": "invert",
+        "definition": "v. 使反向、使顛倒"
+    },
+    {
+        "id": 704,
+        "word": "inveterate",
+        "definition": "adj. 積習不改的、上癮的 (inveterate gamblers)"
+    },
+    {
+        "id": 705,
+        "word": "invidious",
+        "definition": "adj. 招致不滿的、(比較、選擇)不公平、難決定的"
+    },
+    {
+        "id": 706,
+        "word": "invigorate",
+        "definition": "v. 使精神振奮"
+    },
+    {
+        "id": 707,
+        "word": "irascible",
+        "definition": "adj. 易怒的、暴躁的"
+    },
+    {
+        "id": 708,
+        "word": "irreconcilable",
+        "definition": "adj. 不能調和的、矛盾的"
+    },
+    {
+        "id": 709,
+        "word": "irrevocable",
+        "definition": "adj. 不可改變的、不可撤回的"
+    },
+    {
+        "id": 710,
+        "word": "itinerant",
+        "definition": "adj. 巡迴的、遊歷的"
+    },
+    {
+        "id": 711,
+        "word": "jubilation",
+        "definition": "n. 慶祝活動 adj. jubilant 喜氣洋洋的、歡欣的"
+    },
+    {
+        "id": 712,
+        "word": "judicious",
+        "definition": "adj. 有判斷力的、明智的"
+    },
+    {
+        "id": 713,
+        "word": "justify",
+        "definition": "v. 證明...是正當的"
+    },
+    {
+        "id": 714,
+        "word": "juvenile",
+        "definition": "adj. 少年的、幼稚的 n. 少年"
+    },
+    {
+        "id": 715,
+        "word": "juxtapose",
+        "definition": "v. 並排、並列"
+    },
+    {
+        "id": 716,
+        "word": "laborious",
+        "definition": "adj. 費勁的、耗費大量體力的"
+    },
+    {
+        "id": 717,
+        "word": "lackluster",
+        "definition": "n/adj. 無光澤的"
+    },
+    {
+        "id": 718,
+        "word": "laconic",
+        "definition": "adj. 簡短的"
+    },
+    {
+        "id": 719,
+        "word": "lambaste",
+        "definition": "v. 痛打、痛罵"
+    },
+    {
+        "id": 720,
+        "word": "laudatory",
+        "definition": "adj.表示讚美的 [反] invective(謾罵的), execrable (可憎的), pejorative (輕蔑的)"
+    },
+    {
+        "id": 721,
+        "word": "leaven",
+        "definition": "v. 使...添趣 n. 酵母"
+    },
+    {
+        "id": 722,
+        "word": "legitimate",
+        "definition": "adj. 合法的、正當的"
+    },
+    {
+        "id": 723,
+        "word": "levity",
+        "definition": "n. 輕率、輕浮"
+    },
+    {
+        "id": 724,
+        "word": "lexicon",
+        "definition": "n. 詞典"
+    },
+    {
+        "id": 725,
+        "word": "locomotive",
+        "definition": "adj. 移動的"
+    },
+    {
+        "id": 726,
+        "word": "locus",
+        "definition": "n. 地點、所在地"
+    },
+    {
+        "id": 727,
+        "word": "longevity",
+        "definition": "n. 長壽"
+    },
+    {
+        "id": 728,
+        "word": "long-winded",
+        "definition": "adj. 冗長的、囉嗦的"
+    },
+    {
+        "id": 729,
+        "word": "loquacious",
+        "definition": "adj. 多話的、非常健談的 [同] garrulous, verbose"
+    },
+    {
+        "id": 730,
+        "word": "lucid",
+        "definition": "adj.清晰易懂的、明晰的"
+    },
+    {
+        "id": 731,
+        "word": "lucrative",
+        "definition": "adj. 賺錢的、有利可圖的"
+    },
+    {
+        "id": 732,
+        "word": "lucubration",
+        "definition": "n. 苦心研究"
+    },
+    {
+        "id": 733,
+        "word": "ludicrous",
+        "definition": "adj. 滑稽的、荒唐可笑的"
+    },
+    {
+        "id": 734,
+        "word": "luminary",
+        "definition": "n. 專家、傑出的人"
+    },
+    {
+        "id": 735,
+        "word": "lurid",
+        "definition": "adj. 可怕的、恐怖的、火紅的"
+    },
+    {
+        "id": 736,
+        "word": "luxuriant",
+        "definition": "adj. 茂盛的、(髮) 濃密健康的"
+    },
+    {
+        "id": 737,
+        "word": "luxurious",
+        "definition": "adj. 奢侈的、豪華的"
+    },
+    {
+        "id": 738,
+        "word": "magnanimous",
+        "definition": "adj. 寬宏大量的"
+    },
+    {
+        "id": 739,
+        "word": "magnificent",
+        "definition": "adj. 壯麗的"
+    },
+    {
+        "id": 740,
+        "word": "magnitude",
+        "definition": "n. 重要、星等、震級"
+    },
+    {
+        "id": 741,
+        "word": "maintain",
+        "definition": "v. 維持、堅持、主張"
+    },
+    {
+        "id": 742,
+        "word": "malady",
+        "definition": "n. 病"
+    },
+    {
+        "id": 743,
+        "word": "malapropism",
+        "definition": "n. 文字誤用"
+    },
+    {
+        "id": 744,
+        "word": "malediction",
+        "definition": "n. 詛咒、壞話"
+    },
+    {
+        "id": 745,
+        "word": "malevolent",
+        "definition": "adj. 有惡意的、狠毒的"
+    },
+    {
+        "id": 746,
+        "word": "malevolent",
+        "definition": "adj. 有惡意的、壞心腸的"
+    },
+    {
+        "id": 747,
+        "word": "malfeasance",
+        "definition": "n. 不法行為、瀆職 misfeasance"
+    },
+    {
+        "id": 748,
+        "word": "malign",
+        "definition": "v. 誹謗、中傷 adj. 惡意的"
+    },
+    {
+        "id": 749,
+        "word": "malodorous",
+        "definition": "adj. 惡臭的 [同] noisome"
+    },
+    {
+        "id": 750,
+        "word": "mandate",
+        "definition": "n. 命令、指令"
+    },
+    {
+        "id": 751,
+        "word": "mandatory",
+        "definition": "adj. 命令的、強迫的"
+    },
+    {
+        "id": 752,
+        "word": "maneuver",
+        "definition": "v. (部隊) 調動 n. 謀略 [同] ploy"
+    },
+    {
+        "id": 753,
+        "word": "mania",
+        "definition": "n. 瘋狂、狂熱"
+    },
+    {
+        "id": 754,
+        "word": "manipulate",
+        "definition": "v. 操作、運用"
+    },
+    {
+        "id": 755,
+        "word": "manuscript",
+        "definition": "n./adj. 手稿、手寫的"
+    },
+    {
+        "id": 756,
+        "word": "measured",
+        "definition": "adj. 精確的、慎重的"
+    },
+    {
+        "id": 757,
+        "word": "mediate",
+        "definition": "v. 調停解決"
+    },
+    {
+        "id": 758,
+        "word": "mediocre",
+        "definition": "adj. 平凡的、平庸的"
+    },
+    {
+        "id": 759,
+        "word": "meditate",
+        "definition": "v. 沉思、仔細考慮"
+    },
+    {
+        "id": 760,
+        "word": "menacing",
+        "definition": "adj. 威脅的、不詳的"
+    },
+    {
+        "id": 761,
+        "word": "mendacious",
+        "definition": "adj. 虛偽的、說謊的"
+    },
+    {
+        "id": 762,
+        "word": "mendacity",
+        "definition": "n. 虛偽"
+    },
+    {
+        "id": 763,
+        "word": "mentor",
+        "definition": "n. 導師"
+    },
+    {
+        "id": 764,
+        "word": "mercenary",
+        "definition": "adj. 為金錢的、圖利的、貪財的"
+    },
+    {
+        "id": 765,
+        "word": "metamorphose",
+        "definition": "v. 使變形、使變質"
+    },
+    {
+        "id": 766,
+        "word": "metaphor",
+        "definition": "n. 隱喻 adj. metaphorical"
+    },
+    {
+        "id": 767,
+        "word": "minatory",
+        "definition": "adj. 威脅的"
+    },
+    {
+        "id": 768,
+        "word": "minuscule",
+        "definition": "adj. 極小的、微小的"
+    },
+    {
+        "id": 769,
+        "word": "mire",
+        "definition": "n. 困境、汙泥 v. 使陷入困境"
+    },
+    {
+        "id": 770,
+        "word": "misanthrope",
+        "definition": "n. 憤世嫉俗者"
+    },
+    {
+        "id": 771,
+        "word": "misapprehension",
+        "definition": "n. 誤會、誤解"
+    },
+    {
+        "id": 772,
+        "word": "miscontrue",
+        "definition": "v. 曲解、誤解"
+    },
+    {
+        "id": 773,
+        "word": "miscreant",
+        "definition": "n. 惡棍、歹徒"
+    },
+    {
+        "id": 774,
+        "word": "misnomer",
+        "definition": "n. 人名誤載、寫錯姓名"
+    },
+    {
+        "id": 775,
+        "word": "mitigant",
+        "definition": "adj. 緩和的、減輕的"
+    },
+    {
+        "id": 776,
+        "word": "mitigate",
+        "definition": "v. 減輕、使緩和 [同] assuage, allay"
+    },
+    {
+        "id": 777,
+        "word": "moderate",
+        "definition": "adj. 適度的、溫和的、有限的 v. 使緩和、使減弱"
+    },
+    {
+        "id": 778,
+        "word": "modulate",
+        "definition": "v. 調整、調節(聲音或嗓音)"
+    },
+    {
+        "id": 779,
+        "word": "mollify",
+        "definition": "v. 安撫(他人的生氣、使他人變得平靜)"
+    },
+    {
+        "id": 780,
+        "word": "monochromatic",
+        "definition": "adj. 單色的"
+    },
+    {
+        "id": 781,
+        "word": "monolithic",
+        "definition": "adj. 巨石的、巨大的 (used to describe single, very large organizations, etc. that are very slow to change and not interested in individual people)"
+    },
+    {
+        "id": 782,
+        "word": "monolog",
+        "definition": "n. 獨白"
+    },
+    {
+        "id": 783,
+        "word": "monomania",
+        "definition": "n. 偏執狂、狂熱病"
+    },
+    {
+        "id": 784,
+        "word": "monotonous",
+        "definition": "adj. 單調的、無聊的"
+    },
+    {
+        "id": 785,
+        "word": "moralistic",
+        "definition": "adj. 說教的、教訓的"
+    },
+    {
+        "id": 786,
+        "word": "morbid",
+        "definition": "adj. 病態的、不健康的"
+    },
+    {
+        "id": 787,
+        "word": "mordant",
+        "definition": "adj. 尖酸刻薄的"
+    },
+    {
+        "id": 788,
+        "word": "moribund",
+        "definition": "adj. 垂死的、奄奄一息的(市場、經濟)"
+    },
+    {
+        "id": 789,
+        "word": "mortgage",
+        "definition": "v./n. 抵押"
+    },
+    {
+        "id": 790,
+        "word": "mortify",
+        "definition": "v. 使丟面子、使羞愧"
+    },
+    {
+        "id": 791,
+        "word": "mountainous",
+        "definition": "adj. 多山的、有山的"
+    },
+    {
+        "id": 792,
+        "word": "multifaceted",
+        "definition": "adj. 多面向的"
+    },
+    {
+        "id": 793,
+        "word": "municipality",
+        "definition": "n. 自治市、市政當局"
+    },
+    {
+        "id": 794,
+        "word": "munificent",
+        "definition": "adj. 慷慨的、豐厚的"
+    },
+    {
+        "id": 795,
+        "word": "munificent",
+        "definition": "adj. 寬宏的、慷慨的"
+    },
+    {
+        "id": 796,
+        "word": "murky",
+        "definition": "adj. 黑暗的、陰鬱的"
+    },
+    {
+        "id": 797,
+        "word": "mutable",
+        "definition": "adj. 善變的、易變的 [同]capricious, inconsistent, inconstant, mercurial, fickle"
+    },
+    {
+        "id": 798,
+        "word": "mute",
+        "definition": "adj. 啞口無言、緘默的 v. 抑制(情感)、減輕(活動強度)"
+    },
+    {
+        "id": 799,
+        "word": "myopia",
+        "definition": "n. 目光短淺的"
+    },
+    {
+        "id": 800,
+        "word": "nascent",
+        "definition": "adj. 初生的、新興的"
+    },
+    {
+        "id": 801,
+        "word": "natal",
+        "definition": "adj. 出生的、出生時的"
+    },
+    {
+        "id": 802,
+        "word": "negate",
+        "definition": "v. 取消、否認"
+    },
+    {
+        "id": 803,
+        "word": "negligent",
+        "definition": "adj. 疏忽的、粗心的"
+    },
+    {
+        "id": 804,
+        "word": "negligible",
+        "definition": "adj. 可以忽略的、微不足道的"
+    },
+    {
+        "id": 805,
+        "word": "neonate",
+        "definition": "n. 新生兒"
+    },
+    {
+        "id": 806,
+        "word": "neophyte",
+        "definition": "n. 新手、新信徒"
+    },
+    {
+        "id": 807,
+        "word": "neutral",
+        "definition": "adj. 中立的"
+    },
+    {
+        "id": 808,
+        "word": "nocturnal",
+        "definition": "adj. 夜晚的、夜間發生的"
+    },
+    {
+        "id": 809,
+        "word": "noisome",
+        "definition": "adj. 令人討厭的、惡臭的"
+    },
+    {
+        "id": 810,
+        "word": "nominal",
+        "definition": "adj. 名義上的、(價格款項)微不足道的、(價值比例)名義的"
+    },
+    {
+        "id": 811,
+        "word": "nonchalant",
+        "definition": "adj. 無憂無慮的、漠不關心的"
+    },
+    {
+        "id": 812,
+        "word": "nonviable",
+        "definition": "adj. 無法生存的"
+    },
+    {
+        "id": 813,
+        "word": "normative",
+        "definition": "adj. 合乎規範的、按規定準則的"
+    },
+    {
+        "id": 814,
+        "word": "nostalgia",
+        "definition": "n. 思鄉病"
+    },
+    {
+        "id": 815,
+        "word": "nostalgia",
+        "definition": "n. 鄉愁"
+    },
+    {
+        "id": 816,
+        "word": "nostrum",
+        "definition": "n. 家傳秘方、江湖藥、萬靈丹"
+    },
+    {
+        "id": 817,
+        "word": "notch",
+        "definition": "n. 刻痕、槽口、凹口"
+    },
+    {
+        "id": 818,
+        "word": "notoriety",
+        "definition": "n. 惡名昭彰、聲名狼藉"
+    },
+    {
+        "id": 819,
+        "word": "novelty",
+        "definition": "n. 新奇、新奇的事物"
+    },
+    {
+        "id": 820,
+        "word": "novice",
+        "definition": "n. 新手、初學者"
+    },
+    {
+        "id": 821,
+        "word": "noxious",
+        "definition": "adj. 有害的、有毒的"
+    },
+    {
+        "id": 822,
+        "word": "nullify",
+        "definition": "v. 使無效、廢棄、取消"
+    },
+    {
+        "id": 823,
+        "word": "obdurate",
+        "definition": "adj. 固執的、頑固的"
+    },
+    {
+        "id": 824,
+        "word": "obfuscate",
+        "definition": "v. 使困惑、使迷惑 [同] bewilder"
+    },
+    {
+        "id": 825,
+        "word": "objection",
+        "definition": "n. 厭惡、反對"
+    },
+    {
+        "id": 826,
+        "word": "objective",
+        "definition": "adj. 客觀的"
+    },
+    {
+        "id": 827,
+        "word": "objurgate",
+        "definition": "v. 斥責、痛罵"
+    },
+    {
+        "id": 828,
+        "word": "objurgation",
+        "definition": "n. 痛斥"
+    },
+    {
+        "id": 829,
+        "word": "obligatory",
+        "definition": "adj. 強制性的、義務的"
+    },
+    {
+        "id": 830,
+        "word": "obsequious",
+        "definition": "adj. 逢迎的、諂媚的"
+    },
+    {
+        "id": 831,
+        "word": "observant",
+        "definition": "adj. 注意的、當心的"
+    },
+    {
+        "id": 832,
+        "word": "obsolescent",
+        "definition": "adj. 逐漸被廢棄的、即將過時的"
+    },
+    {
+        "id": 833,
+        "word": "obsolete",
+        "definition": "adj. 廢棄的、淘汰的、過時的"
+    },
+    {
+        "id": 834,
+        "word": "obstinate",
+        "definition": "adj. 固執的、倔強的"
+    },
+    {
+        "id": 835,
+        "word": "obtrude",
+        "definition": "v. 打擾 [sth./ yourself on/upon sb.]"
+    },
+    {
+        "id": 836,
+        "word": "obviate",
+        "definition": "v. 排除、消除(困難)"
+    },
+    {
+        "id": 837,
+        "word": "occult",
+        "definition": "adj. 超自然的、奧秘的"
+    },
+    {
+        "id": 838,
+        "word": "odoriferous",
+        "definition": "adj. 有氣味的"
+    },
+    {
+        "id": 839,
+        "word": "odoriferous",
+        "definition": "adj. 香的、芬芳的"
+    },
+    {
+        "id": 840,
+        "word": "ominous",
+        "definition": "adj. 預兆的、不祥的"
+    },
+    {
+        "id": 841,
+        "word": "omnipotent",
+        "definition": "adj. 全能的、萬能的"
+    },
+    {
+        "id": 842,
+        "word": "omniscient",
+        "definition": "adj. 無所不知的、博識的"
+    },
+    {
+        "id": 843,
+        "word": "onerous",
+        "definition": "adj. 繁重的、麻煩的"
+    },
+    {
+        "id": 844,
+        "word": "opaque",
+        "definition": "adj. 不透明的、難懂的"
+    },
+    {
+        "id": 845,
+        "word": "opportune",
+        "definition": "adj. 恰好的、適宜的"
+    },
+    {
+        "id": 846,
+        "word": "opportunistic",
+        "definition": "adj. 機會主義的"
+    },
+    {
+        "id": 847,
+        "word": "optimal",
+        "definition": "adj. 最佳的、最理想的"
+    },
+    {
+        "id": 848,
+        "word": "optimistic",
+        "definition": "adj. 樂觀的"
+    },
+    {
+        "id": 849,
+        "word": "opulent",
+        "definition": "adj. 豐饒的、華麗的、奢侈的"
+    },
+    {
+        "id": 850,
+        "word": "oracle",
+        "definition": "n. 神使"
+    },
+    {
+        "id": 851,
+        "word": "oracular",
+        "definition": "adj. 神諭的、玄妙的"
+    },
+    {
+        "id": 852,
+        "word": "oration",
+        "definition": "n. 演講、演說"
+    },
+    {
+        "id": 853,
+        "word": "ordinance",
+        "definition": "n. 法令、條例"
+    },
+    {
+        "id": 854,
+        "word": "ornamental",
+        "definition": "adj. 裝飾的、做裝飾用的"
+    },
+    {
+        "id": 855,
+        "word": "ornate",
+        "definition": "adj. 裝飾華麗的"
+    },
+    {
+        "id": 856,
+        "word": "orthodox",
+        "definition": "adj. 正統的、傳統的、習俗的"
+    },
+    {
+        "id": 857,
+        "word": "ossify",
+        "definition": "v. 硬化、骨化、僵化"
+    },
+    {
+        "id": 858,
+        "word": "outmoded",
+        "definition": "adj. 老式的、過時的"
+    },
+    {
+        "id": 859,
+        "word": "outstrip",
+        "definition": "v. 超過、跑過"
+    },
+    {
+        "id": 860,
+        "word": "overt",
+        "definition": "adj. 明顯的、公然的"
+    },
+    {
+        "id": 861,
+        "word": "palpable",
+        "definition": "adj. 可觸知的、可摸到的、及其明瞭的 [同] tangible [反] subtle"
+    },
+    {
+        "id": 862,
+        "word": "paltry",
+        "definition": "adj. 不足取的、瑣碎的"
+    },
+    {
+        "id": 863,
+        "word": "paradox",
+        "definition": "n. 悖論、似是而非的議論"
+    },
+    {
+        "id": 864,
+        "word": "paramount",
+        "definition": "adj. 至高無上的、最重要的"
+    },
+    {
+        "id": 865,
+        "word": "parity",
+        "definition": "n. 同等、類似、相同"
+    },
+    {
+        "id": 866,
+        "word": "parody",
+        "definition": "n. 模仿性嘲弄文章或表演、拙劣的模仿"
+    },
+    {
+        "id": 867,
+        "word": "partial",
+        "definition": "adj. 局部的、偏袒的"
+    },
+    {
+        "id": 868,
+        "word": "particulate",
+        "definition": "n. 顆粒、微粒"
+    },
+    {
+        "id": 869,
+        "word": "partisan",
+        "definition": "n. (黨派) 支持者、黨徒"
+    },
+    {
+        "id": 870,
+        "word": "passivity",
+        "definition": "n. 被動、消極"
+    },
+    {
+        "id": 871,
+        "word": "pathological",
+        "definition": "adj. 病理上的、病態的"
+    },
+    {
+        "id": 872,
+        "word": "pathos",
+        "definition": "n. 激起憐憫(或同情等)的因素、感傷力"
+    },
+    {
+        "id": 873,
+        "word": "patriarchal",
+        "definition": "adj. 家長的、父權制的"
+    },
+    {
+        "id": 874,
+        "word": "patriot",
+        "definition": "n. 愛國者、愛國主義者"
+    },
+    {
+        "id": 875,
+        "word": "peccadillo",
+        "definition": "n. 輕罪、小過、小瑕疵"
+    },
+    {
+        "id": 876,
+        "word": "peculate",
+        "definition": "v. 挪用、盜取"
+    },
+    {
+        "id": 877,
+        "word": "pecuniary",
+        "definition": "adj. 金錢的、錢財方面的 =mercenary"
+    },
+    {
+        "id": 878,
+        "word": "pedantic",
+        "definition": "adj. 賣弄學問的"
+    },
+    {
+        "id": 879,
+        "word": "pedestrian",
+        "definition": "n. 行人 adj. 平淡無味的、乏味的"
+    },
+    {
+        "id": 880,
+        "word": "pejorative",
+        "definition": "adj. 貶抑的、輕蔑的"
+    },
+    {
+        "id": 881,
+        "word": "pellucid",
+        "definition": "adj. 清晰的、清澈的"
+    },
+    {
+        "id": 882,
+        "word": "penalty",
+        "definition": "n. 處罰、刑罰"
+    },
+    {
+        "id": 883,
+        "word": "penchant",
+        "definition": "n. 愛好、嗜好"
+    },
+    {
+        "id": 884,
+        "word": "pending",
+        "definition": "adj. 未定的、待定的"
+    },
+    {
+        "id": 885,
+        "word": "penitential",
+        "definition": "adj. 後悔的、懺悔的"
+    },
+    {
+        "id": 886,
+        "word": "pensive",
+        "definition": "adj. 沉思的、愁眉苦臉的 n. pensiveness"
+    },
+    {
+        "id": 887,
+        "word": "perceptible",
+        "definition": "adj. 可以察覺的"
+    },
+    {
+        "id": 888,
+        "word": "perceptive",
+        "definition": "adj. 感知的、之覺得、有洞察力的"
+    },
+    {
+        "id": 889,
+        "word": "peregrinate",
+        "definition": "v. 游歷、旅行"
+    },
+    {
+        "id": 890,
+        "word": "peremptory",
+        "definition": "adj. 專橫的、不容反抗的"
+    },
+    {
+        "id": 891,
+        "word": "perennial",
+        "definition": "adj. 終年的"
+    },
+    {
+        "id": 892,
+        "word": "perfunctory",
+        "definition": "adj. 草率的、敷衍的"
+    },
+    {
+        "id": 893,
+        "word": "perimeter",
+        "definition": "n. 周長"
+    },
+    {
+        "id": 894,
+        "word": "peripatetic",
+        "definition": "adj. 到處走動的、流動的"
+    },
+    {
+        "id": 895,
+        "word": "peripheral",
+        "definition": "adj. 外圍的、周邊的"
+    },
+    {
+        "id": 896,
+        "word": "pernicious",
+        "definition": "adj. 有毒的、致命的"
+    },
+    {
+        "id": 897,
+        "word": "perpetuate",
+        "definition": "v. 使不朽"
+    },
+    {
+        "id": 898,
+        "word": "personification",
+        "definition": "n. 典型、化身"
+    },
+    {
+        "id": 899,
+        "word": "perspicuous",
+        "definition": "adj. 明晰的、明瞭的"
+    },
+    {
+        "id": 900,
+        "word": "pertain",
+        "definition": "v. 關於、屬於"
+    },
+    {
+        "id": 901,
+        "word": "pertinent",
+        "definition": "adj. 有關的、相關的"
+    },
+    {
+        "id": 902,
+        "word": "pervasive",
+        "definition": "adj. 瀰漫的、遍布的"
+    },
+    {
+        "id": 903,
+        "word": "perverse",
+        "definition": "adj. 墮落的、故意作對的"
+    },
+    {
+        "id": 904,
+        "word": "pesticide",
+        "definition": "n. 殺蟲劑"
+    },
+    {
+        "id": 905,
+        "word": "petroglyph",
+        "definition": "n. 岩石畫"
+    },
+    {
+        "id": 906,
+        "word": "petulant",
+        "definition": "adj. 暴躁的、壞脾氣的 [類] peevish"
+    },
+    {
+        "id": 907,
+        "word": "philanthropic",
+        "definition": "adj. 博愛的、仁慈的、慈善的"
+    },
+    {
+        "id": 908,
+        "word": "philosophic",
+        "definition": "adj. 哲學的、哲學家的"
+    },
+    {
+        "id": 909,
+        "word": "phobia",
+        "definition": "n. 恐懼症、懼怕"
+    },
+    {
+        "id": 910,
+        "word": "phonetic",
+        "definition": "adj. 發音的、語音的"
+    },
+    {
+        "id": 911,
+        "word": "phony",
+        "definition": "adj. 假的、欺騙的"
+    },
+    {
+        "id": 912,
+        "word": "photosensitive",
+        "definition": "adj. 感光的"
+    },
+    {
+        "id": 913,
+        "word": "photosynthesis",
+        "definition": "n. 光合作用"
+    },
+    {
+        "id": 914,
+        "word": "photosynthesis",
+        "definition": "n. 光合作用"
+    },
+    {
+        "id": 915,
+        "word": "picturesque",
+        "definition": "adj. 圖畫般的、美麗的"
+    },
+    {
+        "id": 916,
+        "word": "piety",
+        "definition": "n. 孝順、孝敬"
+    },
+    {
+        "id": 917,
+        "word": "pious",
+        "definition": "adj. 虔誠的、盡責的"
+    },
+    {
+        "id": 918,
+        "word": "pitfall",
+        "definition": "n.陷阱、圈套"
+    },
+    {
+        "id": 919,
+        "word": "placate",
+        "definition": "v. 撫慰、平息"
+    },
+    {
+        "id": 920,
+        "word": "placebo",
+        "definition": "n. 安慰劑、寬心丸"
+    },
+    {
+        "id": 921,
+        "word": "placid",
+        "definition": "adj. 安靜的、平和的"
+    },
+    {
+        "id": 922,
+        "word": "platitude",
+        "definition": "n. 平凡、陳腔濫調 adj. platitudinous"
+    },
+    {
+        "id": 923,
+        "word": "plausible",
+        "definition": "adj. 貌似真實的、貌似有理的"
+    },
+    {
+        "id": 924,
+        "word": "plenitude",
+        "definition": "n. 充分、完全"
+    },
+    {
+        "id": 925,
+        "word": "plethora",
+        "definition": "n. 過量、過剩"
+    },
+    {
+        "id": 926,
+        "word": "politic",
+        "definition": "adj. 明智的、精明的、慎重的"
+    },
+    {
+        "id": 927,
+        "word": "pompous",
+        "definition": "adj. 浮華的、自命不凡的"
+    },
+    {
+        "id": 928,
+        "word": "ponder",
+        "definition": "v. 仔細考慮、衡量"
+    },
+    {
+        "id": 929,
+        "word": "ponderous",
+        "definition": "adj. 笨重的、笨拙的"
+    },
+    {
+        "id": 930,
+        "word": "portend",
+        "definition": "v. 預示、預先警告"
+    },
+    {
+        "id": 931,
+        "word": "portentous",
+        "definition": "adj. 預示未來的、影響重大的、自命不凡的 n. portent"
+    },
+    {
+        "id": 932,
+        "word": "posit",
+        "definition": "v. 斷定、假定"
+    },
+    {
+        "id": 933,
+        "word": "potent",
+        "definition": "adj. 強而有力的、有影響力的"
+    },
+    {
+        "id": 934,
+        "word": "precarious",
+        "definition": "adj. 不穩的、危險的 [同] perilous, hazardous"
+    },
+    {
+        "id": 935,
+        "word": "precede",
+        "definition": "v. 在...之前、早於"
+    },
+    {
+        "id": 936,
+        "word": "precedent",
+        "definition": "n. 在先、在前"
+    },
+    {
+        "id": 937,
+        "word": "precipitate",
+        "definition": "v. 凝結沉澱、致使發生 adj. 魯莽的"
+    },
+    {
+        "id": 938,
+        "word": "preclude",
+        "definition": "v. 避免、排除"
+    },
+    {
+        "id": 939,
+        "word": "precocious",
+        "definition": "adj. 早熟的、早成的"
+    },
+    {
+        "id": 940,
+        "word": "precursor",
+        "definition": "n. 先驅、先兆"
+    },
+    {
+        "id": 941,
+        "word": "predecessor",
+        "definition": "n. 前任、前輩"
+    },
+    {
+        "id": 942,
+        "word": "predicament",
+        "definition": "n. 困境、窘境"
+    },
+    {
+        "id": 943,
+        "word": "predilection",
+        "definition": "n. 偏袒、愛好"
+    },
+    {
+        "id": 944,
+        "word": "predisposition",
+        "definition": "n. 傾向、素質"
+    },
+    {
+        "id": 945,
+        "word": "predominant",
+        "definition": "adj. 佔優勢的、佔支配地位的"
+    },
+    {
+        "id": 946,
+        "word": "preeminent",
+        "definition": "adj. 卓越的、顯著的"
+    },
+    {
+        "id": 947,
+        "word": "preempt",
+        "definition": "v. 先發制人"
+    },
+    {
+        "id": 948,
+        "word": "preface",
+        "definition": "n. 序言"
+    },
+    {
+        "id": 949,
+        "word": "prefigure",
+        "definition": "v. 預示、預想 [同] foresee"
+    },
+    {
+        "id": 950,
+        "word": "preliminary",
+        "definition": "adj. 初步的、預備的 n. 準備工作、預賽"
+    },
+    {
+        "id": 951,
+        "word": "premeditate",
+        "definition": "v. 預先考慮"
+    },
+    {
+        "id": 952,
+        "word": "preponderate",
+        "definition": "v. 壓倒、超過"
+    },
+    {
+        "id": 953,
+        "word": "prerogative",
+        "definition": "n. 特權"
+    },
+    {
+        "id": 954,
+        "word": "prescient",
+        "definition": "adj. 有先見之明的、預知的 [同] prophetic"
+    },
+    {
+        "id": 955,
+        "word": "prescription",
+        "definition": "n. 處方簽"
+    },
+    {
+        "id": 956,
+        "word": "pressing",
+        "definition": "adj. 緊迫的、迫切的"
+    },
+    {
+        "id": 957,
+        "word": "presume",
+        "definition": "v. (不肯定的)認為、推測、假設"
+    },
+    {
+        "id": 958,
+        "word": "presumptuous",
+        "definition": "adj. 專橫的、自以為是的、冒失的、放肆的"
+    },
+    {
+        "id": 959,
+        "word": "prevalent",
+        "definition": "adj. 普遍的、盛行的"
+    },
+    {
+        "id": 960,
+        "word": "prevaricate",
+        "definition": "v. 支吾其詞、搪塞"
+    },
+    {
+        "id": 961,
+        "word": "primacy",
+        "definition": "n. 卓越、第一位"
+    },
+    {
+        "id": 962,
+        "word": "primal",
+        "definition": "adj. 最初的、原始的"
+    },
+    {
+        "id": 963,
+        "word": "primitive",
+        "definition": "adj. 原始的、遠古的"
+    },
+    {
+        "id": 964,
+        "word": "priority",
+        "definition": "n. 在先、居前"
+    },
+    {
+        "id": 965,
+        "word": "pristine",
+        "definition": "adj. 原始的、清新的、純樸的"
+    },
+    {
+        "id": 966,
+        "word": "privy",
+        "definition": "adj. 個人的、私人的"
+    },
+    {
+        "id": 967,
+        "word": "probity",
+        "definition": "n. 正直、誠實"
+    },
+    {
+        "id": 968,
+        "word": "proclaim",
+        "definition": "v. 宣告、宣布"
+    },
+    {
+        "id": 969,
+        "word": "proclivity",
+        "definition": "n. 傾向"
+    },
+    {
+        "id": 970,
+        "word": "procure",
+        "definition": "v. 取得、獲得"
+    },
+    {
+        "id": 971,
+        "word": "prodigal",
+        "definition": "adj. 非常浪費的、揮霍的 prodigality (n.)"
+    },
+    {
+        "id": 972,
+        "word": "profess",
+        "definition": "v. 公開宣布、聲稱"
+    },
+    {
+        "id": 973,
+        "word": "profigate",
+        "definition": "adj. 非常浪費的"
+    },
+    {
+        "id": 974,
+        "word": "profound",
+        "definition": "adj. 深刻的、深奧的 profundity (n.)"
+    },
+    {
+        "id": 975,
+        "word": "profuse",
+        "definition": "adj. 很多的、充沛的、一再的 n. profusion"
+    },
+    {
+        "id": 976,
+        "word": "proliferate",
+        "definition": "v. 繁殖、激增"
+    },
+    {
+        "id": 977,
+        "word": "prolix",
+        "definition": "adj. 冗長的、囉嗦的"
+    },
+    {
+        "id": 978,
+        "word": "prominent",
+        "definition": "adj. 突出的、顯著的、卓越的 n. prominence"
+    },
+    {
+        "id": 979,
+        "word": "promulgate",
+        "definition": "v. 散佈、頒布"
+    },
+    {
+        "id": 980,
+        "word": "pronounced",
+        "definition": "adj. 明確的、明顯的"
+    },
+    {
+        "id": 981,
+        "word": "propaganda",
+        "definition": "n. 政治宣傳"
+    },
+    {
+        "id": 982,
+        "word": "propagate",
+        "definition": "v. 繁殖、宣傳"
+    },
+    {
+        "id": 983,
+        "word": "propel",
+        "definition": "v. 推進"
+    },
+    {
+        "id": 984,
+        "word": "prophylactic",
+        "definition": "adj. 預防疾病的"
+    },
+    {
+        "id": 985,
+        "word": "propitious",
+        "definition": "adj. 有利的"
+    },
+    {
+        "id": 986,
+        "word": "proprietary",
+        "definition": "adj. 專利的、以所有者自居的"
+    },
+    {
+        "id": 987,
+        "word": "propriety",
+        "definition": "n. 適當、得體"
+    },
+    {
+        "id": 988,
+        "word": "prosaic",
+        "definition": "adj. 乏味的、枯燥的"
+    },
+    {
+        "id": 989,
+        "word": "proscribe",
+        "definition": "v. 禁止、排斥"
+    },
+    {
+        "id": 990,
+        "word": "prose",
+        "definition": "n. 散文"
+    },
+    {
+        "id": 991,
+        "word": "prospect",
+        "definition": "n. 勘探、前景、前途"
+    },
+    {
+        "id": 992,
+        "word": "protagonist",
+        "definition": "n. 主角、主演"
+    },
+    {
+        "id": 993,
+        "word": "protract",
+        "definition": "v. 延長、拖長"
+    },
+    {
+        "id": 994,
+        "word": "provenance",
+        "definition": "n. (藝術) 出處、起源"
+    },
+    {
+        "id": 995,
+        "word": "providential",
+        "definition": "adj. 幸運的、湊巧的"
+    },
+    {
+        "id": 996,
+        "word": "provisional",
+        "definition": "adj. 臨時的、暫時性的"
+    },
+    {
+        "id": 997,
+        "word": "provocative",
+        "definition": "adj. 挑釁的、煽動的"
+    },
+    {
+        "id": 998,
+        "word": "proximity",
+        "definition": "n. 接近、鄰近"
+    },
+    {
+        "id": 999,
+        "word": "prudent",
+        "definition": "adj. 慎重的、審慎的"
+    },
+    {
+        "id": 1000,
+        "word": "pseudonym",
+        "definition": "n. 假名、筆名"
+    },
+    {
+        "id": 1001,
+        "word": "pugnacious",
+        "definition": "adj. 愛爭吵的、愛爭鬥的"
+    },
+    {
+        "id": 1002,
+        "word": "punctilious",
+        "definition": "adj. 一絲不苟的、循規蹈矩的"
+    },
+    {
+        "id": 1003,
+        "word": "puncture",
+        "definition": "n. 刺穿、刺破"
+    },
+    {
+        "id": 1004,
+        "word": "purity",
+        "definition": "v. 使純潔、淨化"
+    },
+    {
+        "id": 1005,
+        "word": "purport",
+        "definition": "v. / n. 聲稱、意旨"
+    },
+    {
+        "id": 1006,
+        "word": "pusillanimous",
+        "definition": "adj. 膽小的"
+    },
+    {
+        "id": 1007,
+        "word": "quiescent",
+        "definition": "adj. 沉寂的、靜態的 n. quiescence"
+    },
+    {
+        "id": 1008,
+        "word": "quintessential",
+        "definition": "adj. 精髓的、典型的"
+    },
+    {
+        "id": 1009,
+        "word": "quirky",
+        "definition": "adj. 離奇的、古怪的"
+    },
+    {
+        "id": 1010,
+        "word": "quotidian",
+        "definition": "adj. 日常的、平常的"
+    },
+    {
+        "id": 1011,
+        "word": "ramification",
+        "definition": "n. 後果、影響"
+    },
+    {
+        "id": 1012,
+        "word": "rapacious",
+        "definition": "adj. 貪婪的、貪得無厭的 [同] avaricious"
+    },
+    {
+        "id": 1013,
+        "word": "reactionary",
+        "definition": "adj. 保守的、反動的"
+    },
+    {
+        "id": 1014,
+        "word": "reassure",
+        "definition": "v. 使恢復信心、使確信"
+    },
+    {
+        "id": 1015,
+        "word": "rebellious",
+        "definition": "adj. 反抗的、難控制的"
+    },
+    {
+        "id": 1016,
+        "word": "recalcitrant",
+        "definition": "adj. 頑抗的、難以控制的 [同] unruly, intransigent, refractory [反]docile, tractable"
+    },
+    {
+        "id": 1017,
+        "word": "recant",
+        "definition": "v. 改變、放棄(信仰或聲明)"
+    },
+    {
+        "id": 1018,
+        "word": "recapitulate",
+        "definition": "v. 扼要重述、概括 n. recapitulation"
+    },
+    {
+        "id": 1019,
+        "word": "receptive",
+        "definition": "adj. 善於接受的"
+    },
+    {
+        "id": 1020,
+        "word": "reciprocity",
+        "definition": "n. 互惠、相互性"
+    },
+    {
+        "id": 1021,
+        "word": "reclaim",
+        "definition": "v. 重新取得"
+    },
+    {
+        "id": 1022,
+        "word": "recognize",
+        "definition": "v. 認得、認出"
+    },
+    {
+        "id": 1023,
+        "word": "reconcile",
+        "definition": "v. 和解、調和"
+    },
+    {
+        "id": 1024,
+        "word": "recondite",
+        "definition": "adj. 深奧的"
+    },
+    {
+        "id": 1025,
+        "word": "rectitude",
+        "definition": "n. 正直、公正"
+    },
+    {
+        "id": 1026,
+        "word": "redundant",
+        "definition": "adj. 多餘的、累贅的 n. redundancy"
+    },
+    {
+        "id": 1027,
+        "word": "reflective",
+        "definition": "adj. 反思的"
+    },
+    {
+        "id": 1028,
+        "word": "refract",
+        "definition": "v. 折射、反射"
+    },
+    {
+        "id": 1029,
+        "word": "refractory",
+        "definition": "adj. 難醫治的、倔強的"
+    },
+    {
+        "id": 1030,
+        "word": "refugee",
+        "definition": "n. 難民、流亡者"
+    },
+    {
+        "id": 1031,
+        "word": "refulgent",
+        "definition": "adj. 輝煌的、燦爛的"
+    },
+    {
+        "id": 1032,
+        "word": "refutable",
+        "definition": "adj. 可駁倒的"
+    },
+    {
+        "id": 1033,
+        "word": "refute",
+        "definition": "v. 反駁、駁斥"
+    },
+    {
+        "id": 1034,
+        "word": "regime",
+        "definition": "n. 政權、政治制度"
+    },
+    {
+        "id": 1035,
+        "word": "regimental",
+        "definition": "adj. (軍隊的) 團的"
+    },
+    {
+        "id": 1036,
+        "word": "rein",
+        "definition": "n. 支配、控制"
+    },
+    {
+        "id": 1037,
+        "word": "rejuvenate",
+        "definition": "v. 使年輕、使恢復精神"
+    },
+    {
+        "id": 1038,
+        "word": "relinquish",
+        "definition": "v. 放棄、廢除"
+    },
+    {
+        "id": 1039,
+        "word": "remarkable",
+        "definition": "adj. 非凡的、卓越的 [反] unremarkable"
+    },
+    {
+        "id": 1040,
+        "word": "remedy",
+        "definition": "n. 治療"
+    },
+    {
+        "id": 1041,
+        "word": "reminisce",
+        "definition": "v. 追憶、懷舊"
+    },
+    {
+        "id": 1042,
+        "word": "reminiscent",
+        "definition": "adj. 回憶往事的、懷舊的"
+    },
+    {
+        "id": 1043,
+        "word": "remiss",
+        "definition": "adj. 疏忽的、不留心的"
+    },
+    {
+        "id": 1044,
+        "word": "remonstrance",
+        "definition": "n. 抗議、抱怨、告誡"
+    },
+    {
+        "id": 1045,
+        "word": "remorse",
+        "definition": "n. 懊悔、悔恨"
+    },
+    {
+        "id": 1046,
+        "word": "repercussion",
+        "definition": "n. 反響、影響"
+    },
+    {
+        "id": 1047,
+        "word": "replete",
+        "definition": "adj. 充滿的、裝滿的"
+    },
+    {
+        "id": 1048,
+        "word": "replicate",
+        "definition": "v. 複製"
+    },
+    {
+        "id": 1049,
+        "word": "repository",
+        "definition": "n. 貯藏處、倉庫、博學多聞者(of knowledge/information)"
+    },
+    {
+        "id": 1050,
+        "word": "repress",
+        "definition": "v. 壓抑、抑制、鎮壓"
+    },
+    {
+        "id": 1051,
+        "word": "reprimand",
+        "definition": "v. 訓斥、斥責"
+    },
+    {
+        "id": 1052,
+        "word": "reproof",
+        "definition": "n. 斥責、告誡"
+    },
+    {
+        "id": 1053,
+        "word": "reprove",
+        "definition": "v. 告誡、好言相勸"
+    },
+    {
+        "id": 1054,
+        "word": "repudiate",
+        "definition": "v. 駁斥、否認"
+    },
+    {
+        "id": 1055,
+        "word": "repugnant",
+        "definition": "adj. 厭惡的、反感的"
+    },
+    {
+        "id": 1056,
+        "word": "repulse",
+        "definition": "v. 擊退、驅逐、使厭惡反感"
+    },
+    {
+        "id": 1057,
+        "word": "resemble",
+        "definition": "v. 與...相像"
+    },
+    {
+        "id": 1058,
+        "word": "resonant",
+        "definition": "adj. 洪亮的、共鳴的"
+    },
+    {
+        "id": 1059,
+        "word": "respect",
+        "definition": "n. 敬重、尊敬"
+    },
+    {
+        "id": 1060,
+        "word": "resplendent",
+        "definition": "adj. 華麗的、輝煌的"
+    },
+    {
+        "id": 1061,
+        "word": "restrain",
+        "definition": "v. 克制、抑制"
+    },
+    {
+        "id": 1062,
+        "word": "resurge",
+        "definition": "v. 再起、復活、復甦 n. resurgence"
+    },
+    {
+        "id": 1063,
+        "word": "resurrect",
+        "definition": "v. 使復活、使復甦"
+    },
+    {
+        "id": 1064,
+        "word": "resuscitate",
+        "definition": "v. 使復活、使復甦"
+    },
+    {
+        "id": 1065,
+        "word": "retract",
+        "definition": "v. 收回、縮回"
+    },
+    {
+        "id": 1066,
+        "word": "retrospective",
+        "definition": "adj. 回顧的、追訴的"
+    },
+    {
+        "id": 1067,
+        "word": "reverberant",
+        "definition": "adj. 迴響的、迴盪的"
+    },
+    {
+        "id": 1068,
+        "word": "reversible",
+        "definition": "adj. 可逆的、可反轉的"
+    },
+    {
+        "id": 1069,
+        "word": "revert",
+        "definition": "v. 恢復、回復到、重新考慮"
+    },
+    {
+        "id": 1070,
+        "word": "revile",
+        "definition": "v. 辱罵、謾罵、痛斥"
+    },
+    {
+        "id": 1071,
+        "word": "revise",
+        "definition": "v. 修訂、校訂"
+    },
+    {
+        "id": 1072,
+        "word": "revitalize",
+        "definition": "v. 使恢復生氣"
+    },
+    {
+        "id": 1073,
+        "word": "revolt",
+        "definition": "v. /n. 反抗、拒絕服從"
+    },
+    {
+        "id": 1074,
+        "word": "ridicule",
+        "definition": "v./n. 嘲笑"
+    },
+    {
+        "id": 1075,
+        "word": "ridiculous",
+        "definition": "adj. 荒謬的、可笑的"
+    },
+    {
+        "id": 1076,
+        "word": "rife",
+        "definition": "adj. 充斥著的、流行的；蔓延的"
+    },
+    {
+        "id": 1077,
+        "word": "rigid",
+        "definition": "adj. 嚴格的"
+    },
+    {
+        "id": 1078,
+        "word": "rigor",
+        "definition": "n. 嚴格、嚴苛"
+    },
+    {
+        "id": 1079,
+        "word": "rigorous",
+        "definition": "adj. 嚴格的、嚴峻的"
+    },
+    {
+        "id": 1080,
+        "word": "riveting",
+        "definition": "adj. 吸引人的、引人入勝的"
+    },
+    {
+        "id": 1081,
+        "word": "robust",
+        "definition": "adj. 強健的、茁壯的、健全的"
+    },
+    {
+        "id": 1082,
+        "word": "rudimentary",
+        "definition": "adj. 基本的、初步的"
+    },
+    {
+        "id": 1083,
+        "word": "sacrosanct",
+        "definition": "adj. 神聖不可侵犯的"
+    },
+    {
+        "id": 1084,
+        "word": "sagacious",
+        "definition": "adj. 睿智的、聰敏的"
+    },
+    {
+        "id": 1085,
+        "word": "salient",
+        "definition": "adj. 顯著的、突出的 n. salience"
+    },
+    {
+        "id": 1086,
+        "word": "salubrious",
+        "definition": "adj. 有益健康的、環境宜人的、得體的"
+    },
+    {
+        "id": 1087,
+        "word": "salutary",
+        "definition": "adj. (經歷)有益的、有幫助的"
+    },
+    {
+        "id": 1088,
+        "word": "salute",
+        "definition": "v. 向...致意、讚揚"
+    },
+    {
+        "id": 1089,
+        "word": "sanctimonious",
+        "definition": "adj. 假裝虔誠的、假裝聖潔的 [同]preachy 怖道的"
+    },
+    {
+        "id": 1090,
+        "word": "sanction",
+        "definition": "n. 認可、批准"
+    },
+    {
+        "id": 1091,
+        "word": "sanguine",
+        "definition": "adj. 自信樂觀的"
+    },
+    {
+        "id": 1092,
+        "word": "sate",
+        "definition": "v. 使心滿意足(尤指壞事)"
+    },
+    {
+        "id": 1093,
+        "word": "satiate",
+        "definition": "v. 使飽足"
+    },
+    {
+        "id": 1094,
+        "word": "savvy",
+        "definition": "n./adj. 有見識的"
+    },
+    {
+        "id": 1095,
+        "word": "schism",
+        "definition": "n. 分裂"
+    },
+    {
+        "id": 1096,
+        "word": "scrutinize",
+        "definition": "v. 詳細檢查 n. scrutiny"
+    },
+    {
+        "id": 1097,
+        "word": "seclude",
+        "definition": "v. 使隔離、使孤立、使隱居"
+    },
+    {
+        "id": 1098,
+        "word": "secrete",
+        "definition": "v. 分泌、隱藏"
+    },
+    {
+        "id": 1099,
+        "word": "sectarianism",
+        "definition": "n. 宗派主義"
+    },
+    {
+        "id": 1100,
+        "word": "sedative",
+        "definition": "n. 鎮靜劑 adj. 有鎮靜作用的"
+    },
+    {
+        "id": 1101,
+        "word": "seductive",
+        "definition": "adj. 誘惑的、引人注意的、有魅力的"
+    },
+    {
+        "id": 1102,
+        "word": "sedulous",
+        "definition": "adj. 勤勉的"
+    },
+    {
+        "id": 1103,
+        "word": "seminal",
+        "definition": "adj. (書、作品等)有重大影響的"
+    },
+    {
+        "id": 1104,
+        "word": "sentiment",
+        "definition": "n. 多愁善感"
+    },
+    {
+        "id": 1105,
+        "word": "sequacious",
+        "definition": "adj. 順從的、缺乏獨創性的"
+    },
+    {
+        "id": 1106,
+        "word": "servile",
+        "definition": "adj. 奴性的、百依百順的"
+    },
+    {
+        "id": 1107,
+        "word": "shrug",
+        "definition": "v. 聳肩"
+    },
+    {
+        "id": 1108,
+        "word": "simultaneous",
+        "definition": "adj. 同時發生的、同時存在的"
+    },
+    {
+        "id": 1109,
+        "word": "solicit",
+        "definition": "v. 懇求、請求、招攬"
+    },
+    {
+        "id": 1110,
+        "word": "soliloquy",
+        "definition": "n. 自言自語、(戲劇中的)獨白"
+    },
+    {
+        "id": 1111,
+        "word": "solitary",
+        "definition": "adj. 單獨的、獨白的"
+    },
+    {
+        "id": 1112,
+        "word": "somnolent",
+        "definition": "adj. 想睡的、催眠的 [同]lethargic"
+    },
+    {
+        "id": 1113,
+        "word": "sonorous",
+        "definition": "adj. 響亮的、洪亮的"
+    },
+    {
+        "id": 1114,
+        "word": "sophistication",
+        "definition": "n. 老於世故、有教養"
+    },
+    {
+        "id": 1115,
+        "word": "sophistry",
+        "definition": "n. 詭辯、謬論"
+    },
+    {
+        "id": 1116,
+        "word": "soporific",
+        "definition": "adj. 令人想睡的"
+    },
+    {
+        "id": 1117,
+        "word": "sovereign",
+        "definition": "adj. 最高統治的 n. 元首"
+    },
+    {
+        "id": 1118,
+        "word": "sparse",
+        "definition": "adj. 稀疏的、稀少的"
+    },
+    {
+        "id": 1119,
+        "word": "specious",
+        "definition": "adj. 似是而非的、華而不實的"
+    },
+    {
+        "id": 1120,
+        "word": "speculate",
+        "definition": "v. 沉思、思索"
+    },
+    {
+        "id": 1121,
+        "word": "speculative",
+        "definition": "adj. 投機的、思索的、推測的"
+    },
+    {
+        "id": 1122,
+        "word": "splendid",
+        "definition": "adj. 極好的、優秀的"
+    },
+    {
+        "id": 1123,
+        "word": "stalwart",
+        "definition": "adj. 堅決的、健壯的"
+    },
+    {
+        "id": 1124,
+        "word": "stanch",
+        "definition": "v. 使傷口止血、止住"
+    },
+    {
+        "id": 1125,
+        "word": "static",
+        "definition": "adj. 靜止的、呆板的"
+    },
+    {
+        "id": 1126,
+        "word": "stilted",
+        "definition": "adj. 呆板的、生硬的、不自然的"
+    },
+    {
+        "id": 1127,
+        "word": "stint",
+        "definition": "v. 吝嗇、節省"
+    },
+    {
+        "id": 1128,
+        "word": "strip",
+        "definition": "v. 剝去、剝光"
+    },
+    {
+        "id": 1129,
+        "word": "subdue",
+        "definition": "v. 征服、壓制、減輕"
+    },
+    {
+        "id": 1130,
+        "word": "submission",
+        "definition": "n. 屈從、歸順"
+    },
+    {
+        "id": 1131,
+        "word": "subordinate",
+        "definition": "adj. 次要的、下級的"
+    },
+    {
+        "id": 1132,
+        "word": "subscribe",
+        "definition": "v. 贊成、訂閱、註冊報名、定期捐助、認購(股份)"
+    },
+    {
+        "id": 1133,
+        "word": "subservient",
+        "definition": "adj. 屈從的、卑屈的、次要的"
+    },
+    {
+        "id": 1134,
+        "word": "subside",
+        "definition": "v. (房屋) 下陷、平息"
+    },
+    {
+        "id": 1135,
+        "word": "subvert",
+        "definition": "v. 顛覆、推翻 n. subversiveness"
+    },
+    {
+        "id": 1136,
+        "word": "successively",
+        "definition": "adv. 接連地、連續地"
+    },
+    {
+        "id": 1137,
+        "word": "succinct",
+        "definition": "adj. 簡明的、簡潔的"
+    },
+    {
+        "id": 1138,
+        "word": "succumb",
+        "definition": "v. 屈從、因...死亡"
+    },
+    {
+        "id": 1139,
+        "word": "suffice",
+        "definition": "v. 足夠、(食物)滿足"
+    },
+    {
+        "id": 1140,
+        "word": "suffrage",
+        "definition": "n. 選舉權"
+    },
+    {
+        "id": 1141,
+        "word": "supercilious",
+        "definition": "adj. 目中無人的"
+    },
+    {
+        "id": 1142,
+        "word": "superfluous",
+        "definition": "adj. 多餘的、累贅的"
+    },
+    {
+        "id": 1143,
+        "word": "superlative",
+        "definition": "adj. 最好的、最高的"
+    },
+    {
+        "id": 1144,
+        "word": "supersede",
+        "definition": "v. 淘汰、取代"
+    },
+    {
+        "id": 1145,
+        "word": "supplant",
+        "definition": "v. 排擠、取代"
+    },
+    {
+        "id": 1146,
+        "word": "suppress",
+        "definition": "v. 鎮壓、抑制"
+    },
+    {
+        "id": 1147,
+        "word": "surfeit",
+        "definition": "n. 過量、過度"
+    },
+    {
+        "id": 1148,
+        "word": "surmise",
+        "definition": "v. 推測、猜測、臆測"
+    },
+    {
+        "id": 1149,
+        "word": "surmount",
+        "definition": "v. 克服、戰勝"
+    },
+    {
+        "id": 1150,
+        "word": "surpass",
+        "definition": "v. 勝過、優於"
+    },
+    {
+        "id": 1151,
+        "word": "surreptitious",
+        "definition": "adj. 祕密的、偷偷摸摸的"
+    },
+    {
+        "id": 1152,
+        "word": "surrogate",
+        "definition": "n. 代替品、代理人"
+    },
+    {
+        "id": 1153,
+        "word": "susceptible",
+        "definition": "adj. 易受影響的、易被感動的"
+    },
+    {
+        "id": 1154,
+        "word": "suspend",
+        "definition": "v. 中止、掉 n. suspension 暫停、延緩"
+    },
+    {
+        "id": 1155,
+        "word": "sycophant",
+        "definition": "n. 拍狗屁者 n. sycophancy adj. sycophantic"
+    },
+    {
+        "id": 1156,
+        "word": "symmetry",
+        "definition": "n. 對稱、均衡"
+    },
+    {
+        "id": 1157,
+        "word": "synoptic",
+        "definition": "adj. 概要的 n. synopsis, synopses"
+    },
+    {
+        "id": 1158,
+        "word": "synthesize",
+        "definition": "v. 綜合、合成"
+    },
+    {
+        "id": 1159,
+        "word": "tact",
+        "definition": "n. 老練、圓通、得體"
+    },
+    {
+        "id": 1160,
+        "word": "tactless",
+        "definition": "adj. 冒失沒分寸的、(言行)未經考慮的"
+    },
+    {
+        "id": 1161,
+        "word": "tangential",
+        "definition": "adj. 切線的"
+    },
+    {
+        "id": 1162,
+        "word": "tantamount",
+        "definition": "adj. (用於強調非常糟糕) 幾乎是...、同等於(negative)"
+    },
+    {
+        "id": 1163,
+        "word": "temperate",
+        "definition": "adj. (氣候)溫和的、(飲食)適度的"
+    },
+    {
+        "id": 1164,
+        "word": "temporal",
+        "definition": "adj. 時間的、世俗的"
+    },
+    {
+        "id": 1165,
+        "word": "temporary",
+        "definition": "adj. 臨時的、暫時的"
+    },
+    {
+        "id": 1166,
+        "word": "tenable",
+        "definition": "adj. 站得住腳、經得起批判的"
+    },
+    {
+        "id": 1167,
+        "word": "tenacious",
+        "definition": "adj. 堅韌不拔的、(觀點信念)根深蒂固的 n. tenacity"
+    },
+    {
+        "id": 1168,
+        "word": "tendentious",
+        "definition": "adj. 有偏見的、傾向性的"
+    },
+    {
+        "id": 1169,
+        "word": "tenuous",
+        "definition": "adj. 稀薄的、空洞的"
+    },
+    {
+        "id": 1170,
+        "word": "terminate",
+        "definition": "v. 終止、結束"
+    },
+    {
+        "id": 1171,
+        "word": "timid",
+        "definition": "adj. 膽小的、易受驚嚇的"
+    },
+    {
+        "id": 1172,
+        "word": "timorous",
+        "definition": "adj. 膽小的、膽怯的"
+    },
+    {
+        "id": 1173,
+        "word": "tonic",
+        "definition": "n. 補藥、有振奮作用的事物 [同] restorative"
+    },
+    {
+        "id": 1174,
+        "word": "torment",
+        "definition": "n. 折磨、痛苦"
+    },
+    {
+        "id": 1175,
+        "word": "tortuous",
+        "definition": "adj. 迂迴曲折的"
+    },
+    {
+        "id": 1176,
+        "word": "tractable",
+        "definition": "adj. 馴服的、易駕馭的 [類]recalcitrant, intransigent [反] docile"
+    },
+    {
+        "id": 1177,
+        "word": "tranquil",
+        "definition": "adj. 平靜的、安靜的"
+    },
+    {
+        "id": 1178,
+        "word": "transcendent",
+        "definition": "adj. 超越的、卓越的、傑出的"
+    },
+    {
+        "id": 1179,
+        "word": "transcribe",
+        "definition": "v. 筆錄、抄寫"
+    },
+    {
+        "id": 1180,
+        "word": "transgress",
+        "definition": "v. 冒犯、違背"
+    },
+    {
+        "id": 1181,
+        "word": "transitional",
+        "definition": "adj. 轉變的、變遷的"
+    },
+    {
+        "id": 1182,
+        "word": "transitory",
+        "definition": "adj. 短暫的、瞬息的"
+    },
+    {
+        "id": 1183,
+        "word": "transitory",
+        "definition": "adj. 短暫的、一時的"
+    },
+    {
+        "id": 1184,
+        "word": "transmute",
+        "definition": "v. 使變形、使變化"
+    },
+    {
+        "id": 1185,
+        "word": "transparent",
+        "definition": "adj. 透明的、清澈的 n. transparency"
+    },
+    {
+        "id": 1186,
+        "word": "treacherous",
+        "definition": "adj. 危險的、背信棄義的"
+    },
+    {
+        "id": 1187,
+        "word": "treatise",
+        "definition": "n. 論文、專著"
+    },
+    {
+        "id": 1188,
+        "word": "tremulous",
+        "definition": "adj. 震顫的、顫抖的、(笑容)怯生生的"
+    },
+    {
+        "id": 1189,
+        "word": "trenchant",
+        "definition": "adj. (言辭、評論) 犀利的、鋒利的"
+    },
+    {
+        "id": 1190,
+        "word": "trepidation",
+        "definition": "n. 恐懼、惶恐"
+    },
+    {
+        "id": 1191,
+        "word": "tribute",
+        "definition": "n. 進貢、貢物"
+    },
+    {
+        "id": 1192,
+        "word": "tumultuous",
+        "definition": "adj. 騷亂的、亂哄哄的、喧譁的"
+    },
+    {
+        "id": 1193,
+        "word": "turbulent",
+        "definition": "adj. 導致動亂的、騷亂的"
+    },
+    {
+        "id": 1194,
+        "word": "turmoil",
+        "definition": "n. 騷亂、混亂"
+    },
+    {
+        "id": 1195,
+        "word": "typify",
+        "definition": "v. 作為...的典型"
+    },
+    {
+        "id": 1196,
+        "word": "umbrage",
+        "definition": "n. 不快、憤怒"
+    },
+    {
+        "id": 1197,
+        "word": "unanimous",
+        "definition": "adj. 全體一致的"
+    },
+    {
+        "id": 1198,
+        "word": "unconscionable",
+        "definition": "adj. 不合理的、過分的"
+    },
+    {
+        "id": 1199,
+        "word": "underline",
+        "definition": "v. 在...之下畫線表重要、強調 [同]underscore"
+    },
+    {
+        "id": 1200,
+        "word": "understated",
+        "definition": "adj. 輕描淡寫的、低調的、壓抑的"
+    },
+    {
+        "id": 1201,
+        "word": "undeserved",
+        "definition": "adj. 不應得的"
+    },
+    {
+        "id": 1202,
+        "word": "unimpressed",
+        "definition": "adj. 沒有留下深刻印象"
+    },
+    {
+        "id": 1203,
+        "word": "univocal",
+        "definition": "adj. 單一意思的"
+    },
+    {
+        "id": 1204,
+        "word": "unliterary",
+        "definition": "adj. 不矯揉造作的"
+    },
+    {
+        "id": 1205,
+        "word": "unobtrusive",
+        "definition": "adj. 不突出的、不刻意吸引注目的"
+    },
+    {
+        "id": 1206,
+        "word": "unprecedented",
+        "definition": "adj. 前所未有的"
+    },
+    {
+        "id": 1207,
+        "word": "unremitting",
+        "definition": "adj. 不間斷的、持續的"
+    },
+    {
+        "id": 1208,
+        "word": "utilitarian",
+        "definition": "adj. 功利主義"
+    },
+    {
+        "id": 1209,
+        "word": "vacuous",
+        "definition": "adj. 發呆的、愚笨的"
+    },
+    {
+        "id": 1210,
+        "word": "vainglorious",
+        "definition": "adj. 非常自負的、虛榮心強的"
+    },
+    {
+        "id": 1211,
+        "word": "valediction",
+        "definition": "n. 告別演說"
+    },
+    {
+        "id": 1212,
+        "word": "valiant",
+        "definition": "adj. 勇敢、英勇的"
+    },
+    {
+        "id": 1213,
+        "word": "vapid",
+        "definition": "adj. 無味的、走了味的"
+    },
+    {
+        "id": 1214,
+        "word": "variability",
+        "definition": "n. 變化性"
+    },
+    {
+        "id": 1215,
+        "word": "vengeance",
+        "definition": "n. 報仇、報復 [take vengeance on/upon sb.]"
+    },
+    {
+        "id": 1216,
+        "word": "veracious",
+        "definition": "adj. 誠實的、真實的"
+    },
+    {
+        "id": 1217,
+        "word": "verbose",
+        "definition": "adj. 囉嗦的、冗長的 prolix, superfluous, garrulous"
+    },
+    {
+        "id": 1218,
+        "word": "verdict",
+        "definition": "n. 判決、裁定"
+    },
+    {
+        "id": 1219,
+        "word": "verified",
+        "definition": "adj. 檢驗的、核實的"
+    },
+    {
+        "id": 1220,
+        "word": "verisimilitude",
+        "definition": "n. 逼真"
+    },
+    {
+        "id": 1221,
+        "word": "veritable",
+        "definition": "adj. 確實的、名副其實的"
+    },
+    {
+        "id": 1222,
+        "word": "vernacular",
+        "definition": "n. 白話、口語"
+    },
+    {
+        "id": 1223,
+        "word": "versatile",
+        "definition": "adj. 多才多藝的"
+    },
+    {
+        "id": 1224,
+        "word": "vestige",
+        "definition": "n. 遺跡、殘餘"
+    },
+    {
+        "id": 1225,
+        "word": "viable",
+        "definition": "adj. 可行的、能活下去的"
+    },
+    {
+        "id": 1226,
+        "word": "vigilant",
+        "definition": "adj. 機警的、警惕的"
+    },
+    {
+        "id": 1227,
+        "word": "vigorous",
+        "definition": "adj. 精力旺盛的、健壯的"
+    },
+    {
+        "id": 1228,
+        "word": "vilify",
+        "definition": "v. 辱罵、誹謗"
+    },
+    {
+        "id": 1229,
+        "word": "vindicate",
+        "definition": "v. 為...平反、證明...正確"
+    },
+    {
+        "id": 1230,
+        "word": "virtue",
+        "definition": "n. 美德、優點"
+    },
+    {
+        "id": 1231,
+        "word": "virtuosity",
+        "definition": "n. 精湛的技巧"
+    },
+    {
+        "id": 1232,
+        "word": "virulence",
+        "definition": "n. 狠毒、毒性"
+    },
+    {
+        "id": 1233,
+        "word": "vista",
+        "definition": "n. 遠景"
+    },
+    {
+        "id": 1234,
+        "word": "vital",
+        "definition": "adj. 極其重要的、充滿活力的"
+    },
+    {
+        "id": 1235,
+        "word": "vitality",
+        "definition": "n. 活力、生氣"
+    },
+    {
+        "id": 1236,
+        "word": "vitiate",
+        "definition": "v. 削弱、破壞、損害"
+    },
+    {
+        "id": 1237,
+        "word": "vivacious",
+        "definition": "adj. 活潑的、快活的"
+    },
+    {
+        "id": 1238,
+        "word": "vociferous",
+        "definition": "adj. 大聲的、激昂的"
+    },
+    {
+        "id": 1239,
+        "word": "volatile",
+        "definition": "adj. 反覆無常的 n. volatility"
+    },
+    {
+        "id": 1240,
+        "word": "voluble",
+        "definition": "adj. 健談的、口若懸河的"
+    },
+    {
+        "id": 1241,
+        "word": "voracious",
+        "definition": "adj. 狼吞虎嚥的、貪婪的"
+    },
+    {
+        "id": 1242,
+        "word": "vulgar",
+        "definition": "adj. 俗氣的、下流的、粗魯的"
+    },
+    {
+        "id": 1243,
+        "word": "welter",
+        "definition": "a welter of sth. (可數/不可數) 雜亂的一堆"
+    },
+    {
+    "id": 1244,
+    "word": "quixotic",
+    "definition": "不切實際的"
+  },
+  {
+    "id": 1245,
+    "word": "ramshackle",
+    "definition": "破爛不堪的"
+  },
+  {
+    "id": 1246,
+    "word": "spartan",
+    "definition": "簡樸的"
+  },
+  {
+    "id": 1247,
+    "word": "illusory",
+    "definition": "虛幻的"
+  },
+  {
+    "id": 1248,
+    "word": "altruistic",
+    "definition": "無私的"
+  },
+  {
+    "id": 1249,
+    "word": "evanescent",
+    "definition": "短暫的"
+  },
+  {
+    "id": 1250,
+    "word": "cumbersome",
+    "definition": "笨重的"
+  },
+  {
+    "id": 1251,
+    "word": "immutable",
+    "definition": "不變的"
+  },
+  {
+    "id": 1252,
+    "word": "unwieldy",
+    "definition": "笨重的"
+  },
+  {
+    "id": 1253,
+    "word": "ephemeral",
+    "definition": "短暫的"
+  },
+  {
+    "id": 1254,
+    "word": "ephemerality",
+    "definition": "短暫性"
+  },
+  {
+    "id": 1255,
+    "word": "syringe",
+    "definition": "針筒"
+  },
+  {
+    "id": 1256,
+    "word": "inoculate",
+    "definition": "給……接種疫苗"
+  },
+  {
+    "id": 1257,
+    "word": "gravitate",
+    "definition": "傾向於"
+  },
+  {
+    "id": 1258,
+    "word": "eccentricity",
+    "definition": "古怪、獨特"
+  },
+  {
+    "id": 1259,
+    "word": "predilection",
+    "definition": "偏愛"
+  },
+  {
+    "id": 1260,
+    "word": "vacillation",
+    "definition": "猶豫不決"
+  },
+  {
+    "id": 1261,
+    "word": "proclivity",
+    "definition": "傾向"
+  },
+  {
+    "id": 1262,
+    "word": "wavering",
+    "definition": "猶豫"
+  },
+  {
+    "id": 1263,
+    "word": "cowardice",
+    "definition": "懦弱"
+  },
+  {
+    "id": 1264,
+    "word": "fractious",
+    "definition": "易怒的"
+  },
+  {
+    "id": 1265,
+    "word": "restive",
+    "definition": "焦躁不安的"
+  },
+  {
+    "id": 1266,
+    "word": "cynical",
+    "definition": "憤世嫉俗的"
+  },
+  {
+    "id": 1267,
+    "word": "compliant",
+    "definition": "順從的"
+  },
+  {
+    "id": 1268,
+    "word": "tractable",
+    "definition": "易於管教的"
+  },
+  {
+    "id": 1269,
+    "word": "accord",
+    "definition": "協議"
+  },
+  {
+    "id": 1270,
+    "word": "snag",
+    "definition": "障礙"
+  },
+  {
+    "id": 1271,
+    "word": "hitch",
+    "definition": "故障"
+  },
+  {
+    "id": 1272,
+    "word": "sluggish",
+    "definition": "遲緩的、蕭條的"
+  },
+  {
+    "id": 1273,
+    "word": "daunting",
+    "definition": "令人怯步的"
+  },
+  {
+    "id": 1274,
+    "word": "unity",
+    "definition": "團結"
+  },
+  {
+    "id": 1275,
+    "word": "contemporary",
+    "definition": "當代的"
+  },
+  {
+    "id": 1276,
+    "word": "galvanize",
+    "definition": "刺激"
+  },
+  {
+    "id": 1277,
+    "word": "affect",
+    "definition": "影響；感染"
+  },
+  {
+    "id": 1278,
+    "word": "animate",
+    "definition": "鼓舞；推動"
+  },
+  {
+    "id": 1279,
+    "word": "thwart",
+    "definition": "挫敗；反對"
+  },
+  {
+    "id": 1280,
+    "word": "ingenuity",
+    "definition": "巧妙、獨創性"
+  },
+  {
+    "id": 1281,
+    "word": "deemphasize",
+    "definition": "淡化"
+  },
+  {
+    "id": 1282,
+    "word": "bypass",
+    "definition": "繞過；忽視"
+  },
+  {
+    "id": 1283,
+    "word": "hallmark",
+    "definition": "特徵、標誌"
+  },
+  {
+    "id": 1284,
+    "word": "tenure",
+    "definition": "任期"
+  },
+  {
+    "id": 1285,
+    "word": "spur",
+    "definition": "激勵"
+  },
+  {
+    "id": 1286,
+    "word": "recognize",
+    "definition": "承認；贊成"
+  },
+  {
+    "id": 1287,
+    "word": "codify",
+    "definition": "編纂"
+  },
+  {
+    "id": 1288,
+    "word": "acknowledge",
+    "definition": "承認"
+  },
+  {
+    "id": 1289,
+    "word": "foster",
+    "definition": "促進；收養"
+  },
+  {
+    "id": 1290,
+    "word": "egregious",
+    "definition": "惡名昭彰的"
+  },
+  {
+    "id": 1291,
+    "word": "prognosis",
+    "definition": "預後、展望"
+  },
+  {
+    "id": 1292,
+    "word": "incursion",
+    "definition": "入侵"
+  },
+  {
+    "id": 1293,
+    "word": "subjectivity",
+    "definition": "主觀性"
+  },
+  {
+    "id": 1294,
+    "word": "unbridled",
+    "definition": "不受約束的"
+  },
+  {
+    "id": 1295,
+    "word": "harpoon",
+    "definition": "魚叉"
+  },
+  {
+    "id": 1296,
+    "word": "speculative",
+    "definition": "推測的"
+  },
+  {
+    "id": 1297,
+    "word": "pragmatic",
+    "definition": "實際的"
+  },
+  {
+    "id": 1298,
+    "word": "conjectural",
+    "definition": "推測的"
+  },
+  {
+    "id": 1299,
+    "word": "careless",
+    "definition": "粗心的"
+  },
+  {
+    "id": 1300,
+    "word": "judicious",
+    "definition": "理智的、審慎的"
+  },
+  {
+    "id": 1301,
+    "word": "jejune",
+    "definition": "無聊的、乏味的"
+  },
+  {
+    "id": 1302,
+    "word": "vapid",
+    "definition": "乏味的"
+  },
+  {
+    "id": 1303,
+    "word": "didactic",
+    "definition": "說教的"
+  },
+  {
+    "id": 1304,
+    "word": "dogmatic",
+    "definition": "教條的"
+  },
+  {
+    "id": 1305,
+    "word": "preachy",
+    "definition": "說教的（含貶義）"
+  },
+  {
+    "id": 1306,
+    "word": "tendentious",
+    "definition": "有偏見的"
+  },
+  {
+    "id": 1307,
+    "word": "arcane",
+    "definition": "難懂的"
+  },
+  {
+    "id": 1308,
+    "word": "esoteric",
+    "definition": "深奧難懂的"
+  },
+  {
+    "id": 1309,
+    "word": "recondite",
+    "definition": "深奧難懂的"
+  },
+  {
+    "id": 1310,
+    "word": "abstruse",
+    "definition": "深奧難懂的"
+  },
+  {
+    "id": 1311,
+    "word": "forbears",
+    "definition": "祖先"
+  },
+  {
+    "id": 1312,
+    "word": "purport",
+    "definition": "聲稱"
+  },
+  {
+    "id": 1313,
+    "word": "erratic",
+    "definition": "不穩定的"
+  },
+  {
+    "id": 1314,
+    "word": "interdependence",
+    "definition": "相互依賴"
+  },
+  {
+    "id": 1315,
+    "word": "interrelationship",
+    "definition": "相互關係"
+  },
+  {
+    "id": 1316,
+    "word": "elicit",
+    "definition": "引出"
+  },
+  {
+    "id": 1317,
+    "word": "elicitation",
+    "definition": "引出、誘發"
+  },
+  {
+    "id": 1318,
+    "word": "aerial",
+    "definition": "鳥瞰的、空中的"
+  },
+  {
+    "id": 1319,
+    "word": "artistry",
+    "definition": "藝術性"
+  },
+  {
+    "id": 1320,
+    "word": "intelligible",
+    "definition": "可理解的"
+  },
+  {
+    "id": 1321,
+    "word": "undercut",
+    "definition": "削弱"
+  },
+  {
+    "id": 1322,
+    "word": "faculty",
+    "definition": "能力"
+  },
+  {
+    "id": 1323,
+    "word": "lesser",
+    "definition": "較低等的、較少的"
+  },
+  {
+    "id": 1324,
+    "word": "vulnerable",
+    "definition": "脆弱的"
+  },
+  {
+    "id": 1325,
+    "word": "insipid",
+    "definition": "乏味的"
+  },
+  {
+    "id": 1326,
+    "word": "gingerbread",
+    "definition": "薑餅"
+  },
+  {
+    "id": 1327,
+    "word": "overlook",
+    "definition": "忽略"
+  },
+  {
+    "id": 1328,
+    "word": "quota",
+    "definition": "配額"
+  },
+  {
+    "id": 1329,
+    "word": "unsolicited",
+    "definition": "未經請求的"
+  },
+  {
+    "id": 1330,
+    "word": "unsophisticated",
+    "definition": "不複雜的、樸素的"
+  },
+  {
+    "id": 1331,
+    "word": "unsubstantiated",
+    "definition": "未經證實的"
+  },
+  {
+    "id": 1332,
+    "word": "suave",
+    "definition": "溫文儒雅的"
+  },
+  {
+    "id": 1333,
+    "word": "extradition",
+    "definition": "引渡"
+  },
+  {
+    "id": 1334,
+    "word": "slippery",
+    "definition": "難以捉摸的、不確定的"
+  },
+  {
+    "id": 1335,
+    "word": "elusive",
+    "definition": "難以捉摸的、難以界定的"
+  },
+  {
+    "id": 1336,
+    "word": "fruitless",
+    "definition": "徒勞無功的"
+  },
+  {
+    "id": 1337,
+    "word": "deceptive",
+    "definition": "具欺騙性的"
+  },
+  {
+    "id": 1338,
+    "word": "futile",
+    "definition": "無益的"
+  },
+  {
+    "id": 1339,
+    "word": "compelling",
+    "definition": "引人信服的"
+  },
+  {
+    "id": 1340,
+    "word": "insular",
+    "definition": "狹隘的、封閉的"
+  },
+  {
+    "id": 1341,
+    "word": "provincial",
+    "definition": "地方性的、狹隘的"
+  },
+  {
+    "id": 1342,
+    "word": "parchment",
+    "definition": "羊皮紙"
+  },
+  {
+    "id": 1343,
+    "word": "parch",
+    "definition": "使乾枯"
+  },
+  {
+    "id": 1344,
+    "word": "bodacious",
+    "definition": "大膽的"
+  },
+  {
+    "id": 1345,
+    "word": "gauntlet",
+    "definition": "防護手套"
+  },
+  {
+    "id": 1346,
+    "word": "pocket watch",
+    "definition": "懷錶"
+  },
+  {
+    "id": 1347,
+    "word": "austere",
+    "definition": "樸素嚴謹的"
+  },
+  {
+    "id": 1348,
+    "word": "opulent",
+    "definition": "奢華的"
+  },
+  {
+    "id": 1349,
+    "word": "cryptic",
+    "definition": "隱晦難解的"
+  },
+  {
+    "id": 1350,
+    "word": "invaluable",
+    "definition": "珍貴的"
+  },
+  {
+    "id": 1351,
+    "word": "unexceptional",
+    "definition": "普通的"
+  },
+  {
+    "id": 1352,
+    "word": "inveterate",
+    "definition": "積習難改的"
+  },
+  {
+    "id": 1353,
+    "word": "dispersal",
+    "definition": "散佈"
+  },
+  {
+    "id": 1354,
+    "word": "candid",
+    "definition": "坦誠的"
+  },
+  {
+    "id": 1355,
+    "word": "premeditated",
+    "definition": "預謀的"
+  },
+  {
+    "id": 1356,
+    "word": "manipulation",
+    "definition": "操縱"
+  },
+  {
+    "id": 1357,
+    "word": "childish",
+    "definition": "幼稚的"
+  },
+  {
+    "id": 1358,
+    "word": "theatrics",
+    "definition": "作秀、表演"
+  },
+  {
+    "id": 1359,
+    "word": "balanced",
+    "definition": "公正的"
+  },
+  {
+    "id": 1360,
+    "word": "site",
+    "definition": "場所、地點"
+  },
+  {
+    "id": 1361,
+    "word": "contemplate",
+    "definition": "思考、沉思"
+  },
+  {
+    "id": 1362,
+    "word": "crafted",
+    "definition": "精心製作的"
+  },
+  {
+    "id": 1363,
+    "word": "intimation",
+    "definition": "暗示、示意"
+  },
+  {
+    "id": 1364,
+    "word": "enlist",
+    "definition": "入伍；請人幫忙"
+  },
+  {
+    "id": 1365,
+    "word": "entail",
+    "definition": "必然導致、必然包含"
+  },
+  {
+    "id": 1366,
+    "word": "coincident",
+    "definition": "同時發生的、一致的"
+  },
+  {
+    "id": 1367,
+    "word": "paucity",
+    "definition": "少量"
+  },
+  {
+    "id": 1368,
+    "word": "halfhearted",
+    "definition": "不認真的"
+  },
+  {
+    "id": 1369,
+    "word": "foreground",
+    "definition": "前景；最突出的位置"
+  },
+  {
+    "id": 1370,
+    "word": "inert",
+    "definition": "惰性的；無生氣的"
+  },
+  {
+    "id": 1371,
+    "word": "jubilant",
+    "definition": "歡騰的"
+  },
+  {
+    "id": 1372,
+    "word": "sensuous",
+    "definition": "感性的"
+  },
+  {
+    "id": 1373,
+    "word": "enervate",
+    "definition": "削弱、使衰弱"
+  },
+  {
+    "id": 1374,
+    "word": "enrich",
+    "definition": "豐富"
+  },
+  {
+    "id": 1375,
+    "word": "circumscribe",
+    "definition": "限制"
+  },
+  {
+    "id": 1376,
+    "word": "be attributed to",
+    "definition": "把……歸因於"
+  },
+  {
+    "id": 1377,
+    "word": "subversion",
+    "definition": "顛覆"
+  },
+  {
+    "id": 1378,
+    "word": "abnegation",
+    "definition": "拒絕、放棄"
+  },
+  {
+    "id": 1379,
+    "word": "repudiation",
+    "definition": "拒絕、否認"
+  },
+  {
+    "id": 1380,
+    "word": "somnolent",
+    "definition": "瞌睡的"
+  },
+  {
+    "id": 1381,
+    "word": "impartial",
+    "definition": "公正的"
+  },
+  {
+    "id": 1382,
+    "word": "lethargic",
+    "definition": "無精打采的"
+  },
+  {
+    "id": 1383,
+    "word": "laconic",
+    "definition": "簡潔的"
+  },
+  {
+    "id": 1384,
+    "word": "befuddled",
+    "definition": "困惑的"
+  },
+  {
+    "id": 1385,
+    "word": "evenhanded",
+    "definition": "公正的"
+  },
+  {
+    "id": 1386,
+    "word": "slumber",
+    "definition": "睡眠"
+  },
+  {
+    "id": 1387,
+    "word": "life expectancy",
+    "definition": "預期壽命"
+  },
+  {
+    "id": 1388,
+    "word": "roil",
+    "definition": "攪動"
+  },
+  {
+    "id": 1389,
+    "word": "ebb",
+    "definition": "退潮；衰退"
+  },
+  {
+    "id": 1390,
+    "word": "sparse",
+    "definition": "稀疏的"
+  },
+  {
+    "id": 1391,
+    "word": "tundra",
+    "definition": "苔原"
+  },
+  {
+    "id": 1392,
+    "word": "terrestrial",
+    "definition": "陸地的；世俗的"
+  },
+  {
+    "id": 1393,
+    "word": "archaeologist",
+    "definition": "考古學家"
+  },
+  {
+    "id": 1394,
+    "word": "contiguous",
+    "definition": "連續的、相鄰的"
+  },
+  {
+    "id": 1395,
+    "word": "tract",
+    "definition": "大片土地"
+  },
+  {
+    "id": 1396,
+    "word": "rote",
+    "definition": "機械式死背的"
+  },
+  {
+    "id": 1397,
+    "word": "condone",
+    "definition": "容忍"
+  },
+  {
+    "id": 1398,
+    "word": "hierarchical",
+    "definition": "分層的"
+  },
+  {
+    "id": 1399,
+    "word": "stratified",
+    "definition": "分層的"
+  },
+  {
+    "id": 1400,
+    "word": "decidedly",
+    "definition": "明確地"
+  },
+  {
+    "id": 1401,
+    "word": "rosy",
+    "definition": "樂觀的、美好的"
+  },
+  {
+    "id": 1402,
+    "word": "encomium",
+    "definition": "讚美"
+  },
+  {
+    "id": 1403,
+    "word": "tribute",
+    "definition": "讚揚、致敬"
+  },
+  {
+    "id": 1404,
+    "word": "for all",
+    "definition": "儘管"
+  },
+  {
+    "id": 1405,
+    "word": "jettison",
+    "definition": "拋棄"
+  },
+  {
+    "id": 1406,
+    "word": "sloth",
+    "definition": "懶惰"
+  },
+  {
+    "id": 1407,
+    "word": "imperial",
+    "definition": "皇室的；帝國的；專橫的；宏大的"
+  },
+  {
+    "id": 1408,
+    "word": "paraphernalia",
+    "definition": "隨身用具；複雜的手續"
+  },
+  {
+    "id": 1409,
+    "word": "seeding",
+    "definition": "在……中埋下、散布"
+  },
+  {
+    "id": 1410,
+    "word": "trickster",
+    "definition": "欺騙者、惡作劇者"
+  },
+  {
+    "id": 1411,
+    "word": "fashion",
+    "definition": "風格"
+  },
+  {
+    "id": 1412,
+    "word": "unostentatious",
+    "definition": "不誇耀的"
+  },
+  {
+    "id": 1413,
+    "word": "ostentatious",
+    "definition": "豪華的、炫耀的"
+  },
+  {
+    "id": 1414,
+    "word": "circumstellar disk",
+    "definition": "星周盤"
+  },
+  {
+    "id": 1415,
+    "word": "disdain",
+    "definition": "輕視"
+  },
+  {
+    "id": 1416,
+    "word": "relish",
+    "definition": "享受"
+  },
+  {
+    "id": 1417,
+    "word": "foreseeable",
+    "definition": "可預測的"
+  },
+  {
+    "id": 1418,
+    "word": "aver",
+    "definition": "斷言"
+  },
+  {
+    "id": 1419,
+    "word": "feign",
+    "definition": "假裝"
+  },
+  {
+    "id": 1420,
+    "word": "avow",
+    "definition": "承認、公開宣告"
+  },
+  {
+    "id": 1421,
+    "word": "embargo",
+    "definition": "禁運"
+  },
+  {
+    "id": 1422,
+    "word": "enviable",
+    "definition": "令人羨慕的"
+  },
+  {
+    "id": 1423,
+    "word": "credential",
+    "definition": "資歷"
+  },
+  {
+    "id": 1424,
+    "word": "title",
+    "definition": "書名；標題；頭銜；冠軍；所有權"
+  },
+  {
+    "id": 1425,
+    "word": "treatise",
+    "definition": "專論"
+  },
+  {
+    "id": 1426,
+    "word": "heartening",
+    "definition": "鼓舞人心的"
+  },
+  {
+    "id": 1427,
+    "word": "concomitant",
+    "definition": "伴隨物；同時發生的"
+  },
+  {
+    "id": 1428,
+    "word": "ensuing",
+    "definition": "隨之而來的"
+  },
+  {
+    "id": 1429,
+    "word": "spate",
+    "definition": "大量、一連串"
+  },
+  {
+    "id": 1430,
+    "word": "rampant",
+    "definition": "猖獗的、失控的"
+  },
+  {
+    "id": 1431,
+    "word": "slump",
+    "definition": "暴跌、衰退"
+  },
+  {
+    "id": 1432,
+    "word": "desirability",
+    "definition": "可取性、吸引力"
+  },
+  {
+    "id": 1433,
+    "word": "guarded",
+    "definition": "謹慎保留的"
+  },
+  {
+    "id": 1434,
+    "word": "evasive",
+    "definition": "閃躲的"
+  },
+  {
+    "id": 1435,
+    "word": "forthright",
+    "definition": "坦率的"
+  },
+  {
+    "id": 1436,
+    "word": "blunt",
+    "definition": "直率的"
+  },
+  {
+    "id": 1437,
+    "word": "flout",
+    "definition": "公然違反"
+  },
+  {
+    "id": 1438,
+    "word": "presuppose",
+    "definition": "預設、假定"
+  },
+  {
+    "id": 1439,
+    "word": "exploit",
+    "definition": "開發、利用"
+  },
+  {
+    "id": 1440,
+    "word": "invention",
+    "definition": "虛構、發明"
+  },
+  {
+    "id": 1441,
+    "word": "rhetoric",
+    "definition": "修辭；花言巧語"
+  },
+  {
+    "id": 1442,
+    "word": "shredded",
+    "definition": "肌肉線條分明的"
+  },
+  {
+    "id": 1443,
+    "word": "exceptional",
+    "definition": "傑出的"
+  },
+  {
+    "id": 1444,
+    "word": "countermand",
+    "definition": "撤回、撤銷"
+  },
+  {
+    "id": 1445,
+    "word": "parity",
+    "definition": "平等"
+  },
+  {
+    "id": 1446,
+    "word": "inclusiveness",
+    "definition": "包容"
+  },
+  {
+    "id": 1447,
+    "word": "stratification",
+    "definition": "分層"
+  },
+  {
+    "id": 1448,
+    "word": "obfuscation",
+    "definition": "混淆、使困惑"
+  },
+  {
+    "id": 1449,
+    "word": "protracted",
+    "definition": "漫長的"
+  },
+  {
+    "id": 1450,
+    "word": "prolonged",
+    "definition": "持續很長時間的"
+  },
+  {
+    "id": 1451,
+    "word": "spurn",
+    "definition": "拒絕、輕視"
+  },
+  {
+    "id": 1452,
+    "word": "license",
+    "definition": "許可、授權"
+  },
+  {
+    "id": 1453,
+    "word": "dynamic",
+    "definition": "互動、動態"
+  },
+  {
+    "id": 1454,
+    "word": "aggregate",
+    "definition": "總計的、總量的"
+  },
+  {
+    "id": 1455,
+    "word": "per capita",
+    "definition": "人均"
+  },
+  {
+    "id": 1456,
+    "word": "founding myth",
+    "definition": "建國神話"
+  },
+  {
+    "id": 1457,
+    "word": "as is often the case",
+    "definition": "一如往常"
+  },
+  {
+    "id": 1458,
+    "word": "in spite of oneself",
+    "definition": "儘管並非自願"
+  },
+  {
+    "id": 1459,
+    "word": "extol",
+    "definition": "極力讚揚"
+  },
+  {
+    "id": 1460,
+    "word": "private equity",
+    "definition": "私募股權"
+  },
+  {
+    "id": 1461,
+    "word": "rant",
+    "definition": "責罵、誇誇其談"
+  },
+  {
+    "id": 1462,
+    "word": "diatribe",
+    "definition": "謾罵"
+  },
+  {
+    "id": 1463,
+    "word": "exculpation",
+    "definition": "脫罪"
+  },
+  {
+    "id": 1464,
+    "word": "disquisition",
+    "definition": "研究、專題論文"
+  },
+  {
+    "id": 1465,
+    "word": "vindication",
+    "definition": "證明無罪；辯護"
+  },
+  {
+    "id": 1466,
+    "word": "condemnation",
+    "definition": "譴責"
+  },
+  {
+    "id": 1467,
+    "word": "definitive",
+    "definition": "最終的；最完整可靠的"
+  },
+  {
+    "id": 1468,
+    "word": "timely",
+    "definition": "及時的"
+  },
+  {
+    "id": 1469,
+    "word": "stipulate",
+    "definition": "規定"
+  },
+  {
+    "id": 1470,
+    "word": "suggest",
+    "definition": "暗示、建議"
+  },
+  {
+    "id": 1471,
+    "word": "disseminate",
+    "definition": "傳播"
+  },
+  {
+    "id": 1472,
+    "word": "settle",
+    "definition": "下定論；解決"
+  },
+  {
+    "id": 1473,
+    "word": "clique",
+    "definition": "小圈子"
+  },
+  {
+    "id": 1474,
+    "word": "cliquish",
+    "definition": "小圈子的"
+  },
+  {
+    "id": 1475,
+    "word": "notion",
+    "definition": "概念；一時的想法"
+  },
+  {
+    "id": 1476,
+    "word": "archaic",
+    "definition": "古老的；過時的"
+  },
+  {
+    "id": 1477,
+    "word": "derivative",
+    "definition": "衍生物"
+  },
+  {
+    "id": 1478,
+    "word": "divisive",
+    "definition": "引起分歧的"
+  },
+  {
+    "id": 1479,
+    "word": "advancement",
+    "definition": "晉升、進展"
+  },
+  {
+    "id": 1480,
+    "word": "vilify",
+    "definition": "誹謗"
+  },
+  {
+    "id": 1481,
+    "word": "stymie",
+    "definition": "阻礙"
+  },
+  {
+    "id": 1482,
+    "word": "hinder",
+    "definition": "妨礙"
+  },
+  {
+    "id": 1483,
+    "word": "aggrieve",
+    "definition": "使悲痛、使受委屈"
+  },
+  {
+    "id": 1484,
+    "word": "circumvent",
+    "definition": "規避、繞過"
+  },
+  {
+    "id": 1485,
+    "word": "endemic",
+    "definition": "地方性的、特有的"
+  },
+  {
+    "id": 1486,
+    "word": "forestall",
+    "definition": "先發制人、預先阻止"
+  },
+  {
+    "id": 1487,
+    "word": "publicize",
+    "definition": "宣傳"
+  },
+  {
+    "id": 1488,
+    "word": "winnow",
+    "definition": "篩選"
+  },
+  {
+    "id": 1489,
+    "word": "shore up",
+    "definition": "加固、支撐"
+  },
+  {
+    "id": 1490,
+    "word": "sense of self",
+    "definition": "自我認同"
+  },
+  {
+    "id": 1491,
+    "word": "paleontologist",
+    "definition": "古生物學家"
+  },
+  {
+    "id": 1492,
+    "word": "paleoanthropologist",
+    "definition": "古人類學家"
+  },
+  {
+    "id": 1493,
+    "word": "Paleozoic",
+    "definition": "古生代"
+  },
+  {
+    "id": 1494,
+    "word": "afresh",
+    "definition": "再來一次"
+  },
+  {
+    "id": 1495,
+    "word": "specious",
+    "definition": "看似有理的、似是而非的"
+  },
+  {
+    "id": 1496,
+    "word": "disprove",
+    "definition": "反駁、證明……是假的"
+  },
+  {
+    "id": 1497,
+    "word": "conflate",
+    "definition": "合併、混為一談"
+  },
+  {
+    "id": 1498,
+    "word": "belie",
+    "definition": "掩飾、與……不符"
+  },
+  {
+    "id": 1499,
+    "word": "divulge",
+    "definition": "洩漏"
+  },
+  {
+    "id": 1500,
+    "word": "offset",
+    "definition": "補償、抵銷"
+  },
+  {
+    "id": 1501,
+    "word": "compact",
+    "definition": "結實的；小型的；簡潔的；合約"
+  },
+  {
+    "id": 1502,
+    "word": "grim",
+    "definition": "嚴厲的、陰森的"
+  },
+  {
+    "id": 1503,
+    "word": "grimy",
+    "definition": "骯髒的"
+  },
+  {
+    "id": 1504,
+    "word": "murky",
+    "definition": "昏暗的；行徑可疑的；錯綜複雜的"
+  },
+  {
+    "id": 1505,
+    "word": "murk",
+    "definition": "昏暗"
+  },
+  {
+    "id": 1506,
+    "word": "dour",
+    "definition": "嚴肅的；悶悶不樂的"
+  },
+  {
+    "id": 1507,
+    "word": "jovial",
+    "definition": "和藹可親的"
+  },
+  {
+    "id": 1508,
+    "word": "joviality",
+    "definition": "和藹可親"
+  },
+  {
+    "id": 1509,
+    "word": "mirth",
+    "definition": "歡笑"
+  },
+  {
+    "id": 1510,
+    "word": "mirthful",
+    "definition": "愉快的"
+  },
+  {
+    "id": 1511,
+    "word": "tepid",
+    "definition": "冷淡的；微溫的"
+  },
+  {
+    "id": 1512,
+    "word": "tepidity",
+    "definition": "冷淡；微溫"
+  },
+  {
+    "id": 1513,
+    "word": "lugubrious",
+    "definition": "極度悲傷的"
+  },
+  {
+    "id": 1514,
+    "word": "gloom",
+    "definition": "黑暗；陰鬱的氛圍"
+  },
+  {
+    "id": 1515,
+    "word": "gloomy",
+    "definition": "昏暗的；令人沮喪的"
+  },
+  {
+    "id": 1516,
+    "word": "well-worked",
+    "definition": "充分開發過的"
+  },
+  {
+    "id": 1517,
+    "word": "well-studied",
+    "definition": "充分研究過的"
+  },
+  {
+    "id": 1518,
+    "word": "well-established",
+    "definition": "早已確立的、根基穩固的"
+  },
+  {
+    "id": 1519,
+    "word": "authoritative",
+    "definition": "具權威性的"
+  },
+  {
+    "id": 1520,
+    "word": "fruitful",
+    "definition": "成果豐富的"
+  },
+  {
+    "id": 1521,
+    "word": "maestro",
+    "definition": "大師；傑出的演奏家或指揮家"
+  },
+  {
+    "id": 1522,
+    "word": "virtue",
+    "definition": "優點、美德"
+  },
+  {
+    "id": 1523,
+    "word": "authenticate",
+    "definition": "鑑定真偽"
+  },
+  {
+    "id": 1524,
+    "word": "predate",
+    "definition": "早於"
+  },
+  {
+    "id": 1525,
+    "word": "require",
+    "definition": "要求；以……為前提"
+  },
+  {
+    "id": 1526,
+    "word": "debunk",
+    "definition": "揭穿、戳破"
+  },
+  {
+    "id": 1527,
+    "word": "premiership",
+    "definition": "首相職位"
+  },
+  {
+    "id": 1528,
+    "word": "cast-iron",
+    "definition": "穩固的、堅實的"
+  },
+  {
+    "id": 1529,
+    "word": "reproach",
+    "definition": "譴責；恥辱"
+  },
+  {
+    "id": 1530,
+    "word": "respite",
+    "definition": "喘息；暫緩"
+  },
+  {
+    "id": 1531,
+    "word": "deference",
+    "definition": "敬重、順從"
+  },
+  {
+    "id": 1532,
+    "word": "sensibility",
+    "definition": "鑒賞力、情感"
+  },
+  {
+    "id": 1533,
+    "word": "exhilarating",
+    "definition": "使人愉快的、令人振奮的"
+  },
+  {
+    "id": 1534,
+    "word": "antagonize",
+    "definition": "使敵對"
+  },
+  {
+    "id": 1535,
+    "word": "delusive",
+    "definition": "欺瞞的、虛幻的"
+  },
+  {
+    "id": 1536,
+    "word": "sketchy",
+    "definition": "粗略的；寫生的"
+  },
+  {
+    "id": 1537,
+    "word": "surreptitious",
+    "definition": "偷偷摸摸的、秘密的"
+  },
+  {
+    "id": 1538,
+    "word": "insouciance",
+    "definition": "漫不經心；無憂無慮"
+  },
+  {
+    "id": 1539,
+    "word": "irascible",
+    "definition": "易怒的"
+  },
+  {
+    "id": 1540,
+    "word": "ambivalent",
+    "definition": "矛盾的、猶豫不決的"
+  },
+  {
+    "id": 1541,
+    "word": "cursory",
+    "definition": "草率的、粗略的"
+  },
+  {
+    "id": 1542,
+    "word": "deleterious",
+    "definition": "有害的"
+  },
+  {
+    "id": 1543,
+    "word": "inundate",
+    "definition": "淹沒、使應接不暇"
+  },
+  {
+    "id": 1544,
+    "word": "prolific",
+    "definition": "多產的"
+  },
+  {
+    "id": 1545,
+    "word": "tangible",
+    "definition": "有形的、實際的"
+  },
+  {
+    "id": 1546,
+    "word": "volatile",
+    "definition": "易變的、不穩定的"
+  },
+  {
+    "id": 1547,
+    "word": "closure",
+    "definition": "完結感"
+  },
+  {
+    "id": 1548,
+    "word": "momentum",
+    "definition": "動能、勢頭"
+  },
+  {
+    "id": 1549,
+    "word": "skeptic",
+    "definition": "懷疑論者"
+  },
+  {
+    "id": 1550,
+    "word": "nuance",
+    "definition": "細微差別"
+  },
+  {
+    "id": 1551,
+    "word": "content",
+    "definition": "內容；滿足的"
+  },
+  {
+    "id": 1552,
+    "word": "contend",
+    "definition": "主張；角逐"
+  },
+  {
+    "id": 1553,
+    "word": "adjudication",
+    "definition": "裁決"
+  },
+  {
+    "id": 1554,
+    "word": "competing",
+    "definition": "互相矛盾的；互相競爭的"
+  },
+  {
+    "id": 1555,
+    "word": "bog",
+    "definition": "沼澤；陷入困境"
+  },
+  {
+    "id": 1556,
+    "word": "triumphant",
+    "definition": "喜氣洋洋的"
+  },
+  {
+    "id": 1557,
+    "word": "dork",
+    "definition": "傻子"
+  },
+  {
+    "id": 1558,
+    "word": "centerpiece",
+    "definition": "中心裝飾品"
+  },
+  {
+    "id": 1559,
+    "word": "tab",
+    "definition": "帳單"
+  },
+  {
+    "id": 1560,
+    "word": "flagged",
+    "definition": "疲憊的；有標記的"
+  },
+  {
+    "id": 1561,
+    "word": "quarry",
+    "definition": "採石場"
+  },
+  {
+    "id": 1562,
+    "word": "recess",
+    "definition": "休庭；偏僻地方；經濟衰退"
+  },
+  {
+    "id": 1563,
+    "word": "grunt",
+    "definition": "咕噥聲"
+  },
+  {
+    "id": 1564,
+    "word": "fluffy",
+    "definition": "毛茸茸的"
+  },
+  {
+    "id": 1565,
+    "word": "gal",
+    "definition": "女孩"
+  },
+  {
+    "id": 1566,
+    "word": "snark",
+    "definition": "尖刻的批評"
+  },
+  {
+    "id": 1567,
+    "word": "chum",
+    "definition": "密友"
+  },
+  {
+    "id": 1568,
+    "word": "parlor",
+    "definition": "客廳；店鋪"
+  },
+  {
+    "id": 1569,
+    "word": "pizzazz",
+    "definition": "活力"
+  },
+  {
+    "id": 1570,
+    "word": "nostril",
+    "definition": "鼻孔"
+  },
+  {
+    "id": 1571,
+    "word": "weasel",
+    "definition": "黃鼠狼"
+  },
+  {
+    "id": 1572,
+    "word": "raucous",
+    "definition": "（聲音）刺耳的"
+  },
+  {
+    "id": 1573,
+    "word": "qualify",
+    "definition": "限定、保留"
+  },
+  {
+    "id": 1574,
+    "word": "cite",
+    "definition": "引用"
+  },
+  {
+    "id": 1575,
+    "word": "consistent with",
+    "definition": "與……相符"
+  },
+  {
+    "id": 1576,
+    "word": "chronicle",
+    "definition": "記錄、按時間順序記載"
+  },
+  {
+    "id": 1577,
+    "word": "entry",
+    "definition": "記錄、條目"
+  },
+  {
+    "id": 1578,
+    "word": "caprice",
+    "definition": "一時的興致"
+  },
+  {
+    "id": 1579,
+    "word": "capricious",
+    "definition": "反覆無常的"
+  },
+  {
+    "id": 1580,
+    "word": "metamorphosis",
+    "definition": "蛻變"
+  },
+  {
+    "id": 1581,
+    "word": "meandering",
+    "definition": "含糊的；蜿蜒的"
+  },
+  {
+    "id": 1582,
+    "word": "standing ovation",
+    "definition": "起立鼓掌"
+  },
+  {
+    "id": 1583,
+    "word": "swagger",
+    "definition": "氣場十足、趾高氣揚"
+  },
+  {
+    "id": 1584,
+    "word": "reclame",
+    "definition": "宣傳；公開抗議"
+  },
+  {
+    "id": 1585,
+    "word": "reclaim",
+    "definition": "取回；開墾"
+  },
+  {
+    "id": 1586,
+    "word": "reclamation",
+    "definition": "開墾；改過自新的過程"
+  },
+  {
+    "id": 1587,
+    "word": "reform",
+    "definition": "改革"
+  },
+  {
+    "id": 1588,
+    "word": "reformation",
+    "definition": "宗教改革"
+  },
+  {
+    "id": 1589,
+    "word": "rehabilitate",
+    "definition": "恢復名譽；使改過自新；恢復健康；修復"
+  },
+  {
+    "id": 1590,
+    "word": "rehabilitation",
+    "definition": "復健"
+  },
+  {
+    "id": 1591,
+    "word": "recapitulate",
+    "definition": "摘要重述"
+  },
+  {
+    "id": 1592,
+    "word": "reiterate",
+    "definition": "反覆重申"
+  },
+  {
+    "id": 1593,
+    "word": "radical",
+    "definition": "激進的、根本的"
+  },
+  {
+    "id": 1594,
+    "word": "characterize",
+    "definition": "描述、刻畫"
+  },
+  {
+    "id": 1595,
+    "word": "incompatible",
+    "definition": "不相容的"
+  },
+  {
+    "id": 1596,
+    "word": "arbitrary",
+    "definition": "武斷的；隨意的"
+  },
+  {
+    "id": 1597,
+    "word": "reproduction",
+    "definition": "複製；繁殖"
+  },
+  {
+    "id": 1598,
+    "word": "reproduce",
+    "definition": "複製；繁殖"
+  },
+  {
+    "id": 1599,
+    "word": "reproductive",
+    "definition": "生殖的"
+  },
+  {
+    "id": 1600,
+    "word": "young",
+    "definition": "幼體"
+  },
+  {
+    "id": 1601,
+    "word": "rear",
+    "definition": "養育"
+  },
+  {
+    "id": 1602,
+    "word": "enforce",
+    "definition": "強制執行"
+  },
+  {
+    "id": 1603,
+    "word": "addition",
+    "definition": "補充、增添"
+  },
+  {
+    "id": 1604,
+    "word": "concern",
+    "definition": "議題、關注"
+  },
+  {
+    "id": 1605,
+    "word": "marshal",
+    "definition": "元帥；整頓、安排；引導"
+  },
+  {
+    "id": 1606,
+    "word": "do justice to",
+    "definition": "對……給予公正的呈現"
+  },
+  {
+    "id": 1607,
+    "word": "emblem",
+    "definition": "象徵、標誌"
+  },
+  {
+    "id": 1608,
+    "word": "emblematic",
+    "definition": "象徵的"
+  },
+  {
+    "id": 1609,
+    "word": "minimalism",
+    "definition": "極簡主義"
+  },
+  {
+    "id": 1610,
+    "word": "literalism",
+    "definition": "寫實主義"
+  }
+]
