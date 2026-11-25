@@ -7,6 +7,9 @@
   const SEED_URL = 'gre_words.json';
   const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
   const COUNT_OPTIONS = [10, 20, 30, 'all'];
+  // 除了 A–Z 之外的特殊篩選鍵：自己打的單字
+  const MINE = 'MINE';
+  const LETTER_LABEL = { ALL: '全部', MINE: '自己打的' };
   // 劍橋辭典（英漢繁體）的基底網址，後面接上英文單字即可
   const DICT_BASE = 'https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/';
 
@@ -30,7 +33,7 @@
     query: '',
     editingId: null,
     pendingImageId: null,
-    quizLetters: new Set(LETTERS),
+    quizLetters: new Set([...LETTERS, MINE]),
     quizCount: 10,
     quizPanel: 'setup', // 'setup' | 'play' | 'result'
     quiz: null,
@@ -132,6 +135,12 @@
 
   const findWord = (id) => state.words.find((w) => w.id === Number(id));
 
+  // 自己打的單字：不是來自 gre_words.json 的種子單字
+  const isMine = (w) => w.source !== 'seed';
+
+  // 依加入時間排序（先加的在前）；時間相同時依 id 排
+  const byAddedTime = (a, b) => (a.createdAt || 0) - (b.createdAt || 0) || a.id - b.id;
+
   /* ========== 儲存 ========== */
   function readStorage() {
     try {
@@ -201,6 +210,7 @@
         saved: Boolean(raw.saved),
         source: raw.source === 'seed' || raw.source === 'user' ? raw.source : undefined,
         image: typeof raw.image === 'string' ? raw.image : null,
+        createdAt: Number(raw.createdAt) > 0 ? Number(raw.createdAt) : Date.now(),
       });
       addedKeys.push(key);
       result.added++;
@@ -343,14 +353,16 @@
 
   function renderLetters() {
     const hasWords = new Set(state.words.map((w) => initialOf(w.word)));
-    els.letters.innerHTML = ['ALL', ...LETTERS]
+    const hasMine = state.words.some(isMine);
+    els.letters.innerHTML = ['ALL', ...LETTERS, MINE]
       .map((l) => {
         const active = state.letter === l;
-        const empty = l !== 'ALL' && !hasWords.has(l);
-        const classes = ['letter', l === 'ALL' ? 'wide' : '', active ? 'is-active' : '', empty ? 'is-empty' : '']
+        const empty = l === MINE ? !hasMine : l !== 'ALL' && !hasWords.has(l);
+        const wide = l === 'ALL' || l === MINE;
+        const classes = ['letter', wide ? 'wide' : '', active ? 'is-active' : '', empty ? 'is-empty' : '']
           .filter(Boolean)
           .join(' ');
-        return `<button class="${classes}" type="button" data-letter="${l}" aria-pressed="${active}">${l === 'ALL' ? '全部' : l}</button>`;
+        return `<button class="${classes}" type="button" data-letter="${l}" aria-pressed="${active}">${LETTER_LABEL[l] || l}</button>`;
       })
       .join('');
   }
@@ -368,13 +380,17 @@
 
   function visibleWords() {
     const q = state.query.trim().toLowerCase();
+    // 「自己打的」篩選時改用加入時間排序；搜尋中仍維持字母順序
+    const byTime = !q && state.letter === MINE;
     return state.words
       .filter((w) => {
         if (state.filter === 'saved' && !w.saved) return false;
         if (q) return w.word.toLowerCase().includes(q) || w.definition.toLowerCase().includes(q);
-        return state.letter === 'ALL' || initialOf(w.word) === state.letter;
+        if (state.letter === 'ALL') return true;
+        if (state.letter === MINE) return isMine(w);
+        return initialOf(w.word) === state.letter;
       })
-      .sort((a, b) => a.word.toLowerCase().localeCompare(b.word.toLowerCase(), 'en'));
+      .sort(byTime ? byAddedTime : (a, b) => a.word.toLowerCase().localeCompare(b.word.toLowerCase(), 'en'));
   }
 
   function renderList() {
@@ -394,6 +410,7 @@
   function emptyMessage() {
     if (state.query.trim()) return '找不到符合的單字';
     if (state.filter === 'saved') return '還沒有儲存的單字，點卡片上的書籤圖示即可收藏';
+    if (state.letter === MINE) return '還沒有自己加入的單字，到「新增單字」加入吧';
     if (state.letter === 'ALL') return '單字本還是空的，到「新增單字」加入第一個吧';
     return `${state.letter} 開頭還沒有單字，到「新增單字」加入吧`;
   }
@@ -548,13 +565,17 @@
 
   /* ========== 抽考區 ========== */
   function quizPool() {
-    return state.words.filter((w) => state.quizLetters.has(initialOf(w.word)));
+    // 選了某個字母，或選了「自己打的」且該單字是自己加入的，就納入抽考
+    return state.words.filter(
+      (w) => state.quizLetters.has(initialOf(w.word)) || (state.quizLetters.has(MINE) && isMine(w))
+    );
   }
 
   function renderQuizSetup() {
-    els.quizLetters.innerHTML = LETTERS.map((l) => {
+    els.quizLetters.innerHTML = [...LETTERS, MINE].map((l) => {
       const on = state.quizLetters.has(l);
-      return `<button class="letter${on ? ' is-active' : ''}" type="button" data-letter="${l}" aria-pressed="${on}">${l}</button>`;
+      const mine = l === MINE ? ' mine' : '';
+      return `<button class="letter${mine}${on ? ' is-active' : ''}" type="button" data-letter="${l}" aria-pressed="${on}">${LETTER_LABEL[l] || l}</button>`;
     }).join('');
 
     els.quizCount.innerHTML = COUNT_OPTIONS.map((c) => {
@@ -1077,7 +1098,7 @@
       renderQuizSetup();
     });
     on(els.quizAll, 'click', () => {
-      state.quizLetters = new Set(LETTERS);
+      state.quizLetters = new Set([...LETTERS, MINE]);
       renderQuizSetup();
     });
     on(els.quizNone, 'click', () => {

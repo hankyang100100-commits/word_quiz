@@ -190,6 +190,7 @@ button:disabled {
   min-width: 42px;
   height: 42px;
   padding: 0 12px;
+  white-space: nowrap;
   border-radius: 999px;
   border: 1.5px solid var(--line);
   background: var(--surface);
@@ -227,6 +228,10 @@ button:disabled {
   width: 100%;
   min-width: 0;
   padding: 0;
+}
+
+.letter-grid .letter.mine {
+  grid-column: 1 / -1;
 }
 
 /* ---------- 單字區：所有 / 儲存 切換 ---------- */
